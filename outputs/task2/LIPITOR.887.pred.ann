@@ -1,0 +1,28 @@
+T1	ADR 0 6	sudden
+T2	ADR 12 16	pain
+T3	Symptom 17 23	2 week
+T4	ADR 33 35	ho
+T5	ADR 38 58	able crippeling pain
+T6	ADR 104 115	odd painful
+T7	ADR 117 131	lumpy swelling
+T8	ADR 148 152	same
+T9	ADR 173 182	sudden ho
+T10	ADR 190 203	grabbing pain
+T11	ADR 305 320	frequent sudden
+T12	Symptom 469 482	every morning
+T13	ADR 488 490	ho
+T14	ADR 498 502	pain
+T15	ADR 534 541	useless
+T16	Disease 629 639	tendonitis
+T17	Disease 644 653	burscitis
+T18	ADR 679 687	problems
+T19	Symptom 749 755	a year
+T20	ADR 757 777	sudden grabbing pain
+T21	ADR 803 805	ho
+T22	ADR 813 817	pain
+T23	Symptom 851 855	days
+T24	ADR 862 871	confusion
+T25	ADR 923 924	5
+T26	ADR 1050 1056	damage
+T27	ADR 1764 1769	fools
+T28	ADR 1806 1810	free

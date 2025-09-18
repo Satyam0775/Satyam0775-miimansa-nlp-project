@@ -1,0 +1,38 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "28 35",
+    "text": "topical"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "206 211",
+    "text": "tired"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "460 466",
+    "text": "porous"
+  },
+  {
+    "id": "T4",
+    "label": "Disease",
+    "span": "546 552",
+    "text": "eczema"
+  },
+  {
+    "id": "T5",
+    "label": "Drug",
+    "span": "668 673",
+    "text": "q-tip"
+  },
+  {
+    "id": "T6",
+    "label": "Drug",
+    "span": "781 786",
+    "text": "treat"
+  }
+]

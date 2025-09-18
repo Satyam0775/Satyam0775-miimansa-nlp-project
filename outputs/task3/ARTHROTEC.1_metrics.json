@@ -1,0 +1,9 @@
+{
+  "File": "ARTHROTEC.1",
+  "True Positives": 2,
+  "False Positives": 7,
+  "False Negatives": 6,
+  "Precision": 0.2222222222222222,
+  "Recall": 0.25,
+  "F1-score": 0.23529411764705882
+}

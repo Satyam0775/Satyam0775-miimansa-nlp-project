@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "Drug",
+    "span": "0 7",
+    "text": "lipitor"
+  },
+  {
+    "id": "T2",
+    "label": "Disease",
+    "span": "118 136",
+    "text": "digestion problems"
+  }
+]

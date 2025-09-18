@@ -1,0 +1,19 @@
+T1	ADR 4 10	cramps
+T2	ADR 32 42	peripheral
+T3	Symptom 60 64	lost
+T4	ADR 109 118	tingeling
+T5	ADR 151 168	difficult to walk
+T6	ADR 178 185	balance
+T7	ADR 187 205	difficult to sleep
+T8	Symptom 236 241	20 mg
+T9	Symptom 254 258	year
+T10	Symptom 283 285	40
+T11	ADR 295 301	slowly
+T12	Symptom 302 318	over four months
+T13	ADR 389 393	feet
+T14	ADR 398 405	itching
+T15	Disease 461 471	neuropathy
+T16	Drug 543 550	lipitor
+T17	ADR 568 574	damage
+T18	Drug 635 646	off lipitor
+T19	Symptom 647 659	eight months

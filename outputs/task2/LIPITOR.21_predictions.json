@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "label": "Drug",
+    "span": "4 11",
+    "text": "lipitor"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "22 30",
+    "text": "lowering"
+  },
+  {
+    "id": "T3",
+    "label": "Disease",
+    "span": "123 145",
+    "text": "restless legs syndrome"
+  },
+  {
+    "id": "T4",
+    "label": "Disease",
+    "span": "147 150",
+    "text": "rls"
+  },
+  {
+    "id": "T5",
+    "label": "Disease",
+    "span": "196 199",
+    "text": "rls"
+  },
+  {
+    "id": "T6",
+    "label": "Drug",
+    "span": "216 223",
+    "text": "lipitor"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "248 251",
+    "text": "lip"
+  },
+  {
+    "id": "T8",
+    "label": "Disease",
+    "span": "267 270",
+    "text": "rls"
+  }
+]

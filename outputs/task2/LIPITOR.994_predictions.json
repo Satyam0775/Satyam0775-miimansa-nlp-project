@@ -1,0 +1,38 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "32 37",
+    "text": "20 mg"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "46 54",
+    "text": "tingling"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "59 67",
+    "text": "numbness"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "144 149",
+    "text": "ached"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "313 321",
+    "text": "tingling"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "393 397",
+    "text": "pain"
+  }
+]

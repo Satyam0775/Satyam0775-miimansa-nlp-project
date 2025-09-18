@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "67 77",
+    "text": "four years"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "111 124",
+    "text": "excess weight"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "187 193",
+    "text": "excess"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "313 323",
+    "text": "sleep well"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "449 452",
+    "text": "opa"
+  }
+]

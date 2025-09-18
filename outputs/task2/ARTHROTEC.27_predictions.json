@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "51 57",
+    "text": "sudden"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "164 165",
+    "text": "3"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "189 193",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "Drug",
+    "span": "230 235",
+    "text": "advil"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "244 248",
+    "text": "pain"
+  }
+]

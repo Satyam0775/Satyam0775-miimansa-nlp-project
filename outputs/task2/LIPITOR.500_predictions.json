@@ -1,0 +1,116 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "4 10",
+    "text": "cramps"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "32 42",
+    "text": "peripheral"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "60 64",
+    "text": "lost"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "109 118",
+    "text": "tingeling"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "151 168",
+    "text": "difficult to walk"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "178 185",
+    "text": "balance"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "187 205",
+    "text": "difficult to sleep"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "236 241",
+    "text": "20 mg"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "254 258",
+    "text": "year"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "283 285",
+    "text": "40"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "295 301",
+    "text": "slowly"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "302 318",
+    "text": "over four months"
+  },
+  {
+    "id": "T13",
+    "label": "ADR",
+    "span": "389 393",
+    "text": "feet"
+  },
+  {
+    "id": "T14",
+    "label": "ADR",
+    "span": "398 405",
+    "text": "itching"
+  },
+  {
+    "id": "T15",
+    "label": "Disease",
+    "span": "461 471",
+    "text": "neuropathy"
+  },
+  {
+    "id": "T16",
+    "label": "Drug",
+    "span": "543 550",
+    "text": "lipitor"
+  },
+  {
+    "id": "T17",
+    "label": "ADR",
+    "span": "568 574",
+    "text": "damage"
+  },
+  {
+    "id": "T18",
+    "label": "Drug",
+    "span": "635 646",
+    "text": "off lipitor"
+  },
+  {
+    "id": "T19",
+    "label": "Symptom",
+    "span": "647 659",
+    "text": "eight months"
+  }
+]

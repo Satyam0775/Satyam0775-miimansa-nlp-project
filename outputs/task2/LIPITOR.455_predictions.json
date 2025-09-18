@@ -1,0 +1,80 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "8 26",
+    "text": "past year and half"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "46 49",
+    "text": "lip"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "88 92",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "165 181",
+    "text": "modified radical"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "204 205",
+    "text": "3"
+  },
+  {
+    "id": "T6",
+    "label": "Drug",
+    "span": "206 219",
+    "text": "steriod shots"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "299 306",
+    "text": "lipitor"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "342 346",
+    "text": "pain"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "392 396",
+    "text": "pain"
+  },
+  {
+    "id": "T10",
+    "label": "Drug",
+    "span": "448 451",
+    "text": "lip"
+  },
+  {
+    "id": "T11",
+    "label": "Drug",
+    "span": "469 472",
+    "text": "mri"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "473 482",
+    "text": "next week"
+  },
+  {
+    "id": "T13",
+    "label": "Drug",
+    "span": "496 503",
+    "text": "surgery"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "7 11",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "102 104",
+    "text": "no"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "123 135",
+    "text": "sudden onset"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "139 143",
+    "text": "pain"
+  }
+]

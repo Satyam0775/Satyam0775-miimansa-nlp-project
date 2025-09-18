@@ -1,0 +1,68 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "7 12",
+    "text": "10 mg"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "17 20",
+    "text": "lip"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "50 54",
+    "text": "ache"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "59 68",
+    "text": "few weeks"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "115 119",
+    "text": "pain"
+  },
+  {
+    "id": "T6",
+    "label": "Disease",
+    "span": "124 126",
+    "text": "md"
+  },
+  {
+    "id": "T7",
+    "label": "Disease",
+    "span": "172 191",
+    "text": "rotator cuff injury"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "245 253",
+    "text": "fracture"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "288 300",
+    "text": "past 2 weeks"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "443 462",
+    "text": "last couple of days"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "486 490",
+    "text": "pain"
+  }
+]

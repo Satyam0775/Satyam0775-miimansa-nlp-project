@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "151 156",
+    "text": "worse"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "202 207",
+    "text": "4 yrs"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "222 223",
+    "text": "6"
+  }
+]

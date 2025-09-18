@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "42 47",
+    "text": "150mg"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "71 76",
+    "text": "100mg"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "226 232",
+    "text": "relief"
+  }
+]

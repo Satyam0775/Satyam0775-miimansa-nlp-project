@@ -1,0 +1,10 @@
+T1	ADR 16 26	flatulance
+T2	Drug 75 79	itor
+T3	ADR 96 99	low
+T4	ADR 105 109	pain
+T5	ADR 225 229	pain
+T6	Symptom 330 338	over 600
+T7	Drug 391 394	med
+T8	Drug 695 702	lipitor
+T9	Symptom 727 732	or so
+T10	Symptom 809 818	past year

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "26 34",
+    "text": "swelling"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "101 109",
+    "text": "swelling"
+  },
+  {
+    "id": "T3",
+    "label": "Drug",
+    "span": "221 228",
+    "text": "lipitor"
+  }
+]

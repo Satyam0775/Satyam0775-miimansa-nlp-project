@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 2",
+    "text": "mu"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "8 12",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "17 21",
+    "text": "numb"
+  }
+]

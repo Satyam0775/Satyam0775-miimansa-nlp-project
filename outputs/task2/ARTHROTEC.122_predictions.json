@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "27 29",
+    "text": "75"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "38 49",
+    "text": "twice a day"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "148 152",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "217 225",
+    "text": "bleeding"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "231 236",
+    "text": "clots"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "389 393",
+    "text": "weak"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "517 525",
+    "text": "bleeding"
+  }
+]

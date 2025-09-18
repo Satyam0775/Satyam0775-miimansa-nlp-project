@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 8",
+    "text": "headache"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "15 19",
+    "text": "ache"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "27 32",
+    "text": "stiff"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "103 110",
+    "text": "3 weeks"
+  }
+]

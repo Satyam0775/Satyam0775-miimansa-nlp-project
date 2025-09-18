@@ -1,0 +1,9 @@
+T1	ADR 5 9	pain
+T2	Symptom 56 60	very
+T3	ADR 61 69	frequent
+T4	ADR 79 91	light uphill
+T5	Symptom 165 170	twice
+T6	Symptom 246 251	twice
+T7	ADR 278 286	fatigued
+T8	Drug 373 375	ex
+T9	ADR 375 381	ercize

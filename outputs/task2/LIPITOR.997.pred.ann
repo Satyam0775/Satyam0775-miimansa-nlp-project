@@ -1,0 +1,10 @@
+T1	ADR 0 4	pain
+T2	ADR 85 107	unable to even climb 1
+T3	ADR 170 178	headache
+T4	ADR 190 199	confusion
+T5	ADR 204 210	memory
+T6	ADR 217 235	uncontrollable gas
+T7	ADR 240 248	diarrhea
+T8	ADR 262 269	burning
+T9	Drug 330 346	physical therapy
+T10	ADR 351 355	pain

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "Disease",
+    "span": "109 118",
+    "text": "paralysis"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "234 243",
+    "text": "paralysis"
+  },
+  {
+    "id": "T3",
+    "label": "Drug",
+    "span": "346 358",
+    "text": "the medicine"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "373 382",
+    "text": "paralysis"
+  }
+]

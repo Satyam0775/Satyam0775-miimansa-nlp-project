@@ -1,0 +1,258 @@
+file,original_text,fuzzy_match_text,fuzzy_match_code,fuzzy_score,embedding_match_text,embedding_match_code,embedding_score
+LIPITOR.667,Muscle pain in left elbow,Pain in elbow,74323005,100,Pain in elbow,74323005,0.826801598072052
+LIPITOR.667,pain in feet,Pain in elbow,74323005,74,Foot pain,47933007,0.9199977517127991
+ARTHROTEC.57,spotting,Menstrual spotting,9126005,100,Menstrual spotting,9126005,0.7401264905929565
+ARTHROTEC.57,spotting problems,Menstrual spotting,9126005,64,Menstrual spotting,9126005,0.7583821415901184
+LIPITOR.512,neck pain,Neck pain,81680005,100,Neck pain,81680005,1.0
+LIPITOR.512,memory loss,Mentally dull,419723007,42,Amnesia,48167000,0.5504356026649475
+LIPITOR.512,Brain feel kind of foggy,Neck pain,81680005,18,Mentally dull,419723007,0.46136677265167236
+LIPITOR.9,Cramps in my feet,Cramp in foot,102551008,73,Cramp in foot,102551008,0.8134490251541138
+LIPITOR.9,pain in the lower part of my knees,Pain,22253000,100,Pain,22253000,0.4376584589481354
+LIPITOR.9,fatigue,Fatigue,84229001,100,Fatigue,84229001,1.0
+LIPITOR.9,mental fog,Mentally dull,419723007,61,Mentally dull,419723007,0.5833961367607117
+LIPITOR.562,very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest,Myalgia/myositis - multiple,288225004,20,Myalgia/myositis - multiple,288225004,0.4439108371734619
+LIPITOR.562,intense muscle pain with intense burning in my neck,Myalgia/myositis - multiple,288225004,29,Myalgia/myositis - multiple,288225004,0.4481220245361328
+LIPITOR.562,intense muscle pain with intense burning in my legs,Myalgia/myositis - multiple,288225004,29,Myalgia/myositis - multiple,288225004,0.47100183367729187
+LIPITOR.562,intense muscle pain with intense burning in my arms,Myalgia/myositis - multiple,288225004,29,Myalgia/myositis - multiple,288225004,0.4567343592643738
+LIPITOR.562,muscle pains,Myalgia/myositis - multiple,288225004,43,Myalgia/myositis - multiple,288225004,0.5499201416969299
+LIPITOR.562,muscle pains,Myalgia/myositis - multiple,288225004,43,Myalgia/myositis - multiple,288225004,0.5499201416969299
+LIPITOR.311,Severe achilles tendonitis,Achilles tendonitis,11654001,100,Achilles tendonitis,11654001,0.9420318603515625
+LIPITOR.311,heel pain,Heel pain,2733002,100,Heel pain,2733002,1.0
+LIPITOR.311,burning sensations in calves,Burning sensation,90673000,76,Burning sensation,90673000,0.6869813799858093
+LIPITOR.555,Lower back pain,Low back pain,279039007,93,Low back pain,279039007,0.9274997115135193
+LIPITOR.555,stiffness in joints,Joint stiffness,84445001,88,Joint stiffness,84445001,0.9546944499015808
+LIPITOR.658,Possible Early Parkinson's symptoms,Parkinsonism,32798002,47,Parkinsonism,32798002,0.6132895946502686
+LIPITOR.658,joint pains,Parkinsonism,32798002,43,Arthralgia,57676002,0.37417033314704895
+LIPITOR.658,light headedness(problem keeping balance),Lightheadedness,386705008,40,Lightheadedness,386705008,0.601280927658081
+LIPITOR.658,Tremors in Right hand,Tremor,26079004,44,Tremor,26079004,0.7682961821556091
+LIPITOR.658,hand writting had deteriorated,Difficulty writing,102938007,42,Difficulty writing,102938007,0.5721821188926697
+LIPITOR.658,Parkinson's symptoms,Parkinsonism,32798002,69,Parkinsonism,32798002,0.6884170770645142
+ARTHROTEC.70,severe acid reflux,Acid reflux,698065002,100,Acid reflux,698065002,0.9139844179153442
+ARTHROTEC.70,headache,Headache,25064002,100,Headache,25064002,1.0
+LIPITOR.364,muscle weakness,Muscle weakness,26544005,100,Muscle weakness,26544005,1.0000001192092896
+LIPITOR.364,extreme fatigue,Muscle weakness,26544005,33,Muscle weakness,26544005,0.557613730430603
+LIPITOR.364,can't sleep,Muscle weakness,26544005,31,Insomnia,193462001,0.6011010408401489
+LIPITOR.364,muscle aches and pain,Muscle weakness,26544005,57,Muscle weakness,26544005,0.5947555303573608
+LIPITOR.536,slurring in speech,Slurred speech,289195008,75,Slurred speech,289195008,0.9395248293876648
+LIPITOR.536,lower back pain,Pain,22253000,100,Low back pain,279039007,0.9274994134902954
+LIPITOR.536,bloated,Bloating symptom,248490000,43,Bloating symptom,248490000,0.6409767866134644
+LIPITOR.536,constipated,Constipation,14760008,78,Constipation,14760008,0.8662403225898743
+LIPITOR.536,severe hip pain,Severe pain,76948002,100,Hip pain,49218002,0.9154301285743713
+LIPITOR.536,Memory loss,Bloating symptom,248490000,37,Amnesia,48167000,0.5504356026649475
+LIPITOR.536,fatigue,Fatigue,84229001,100,Fatigue,84229001,1.0000001192092896
+LIPITOR.536,muscle weakness,Muscle weakness,26544005,100,Muscle weakness,26544005,1.0000001192092896
+LIPITOR.536,depression,Depression,35489007,100,Depression,35489007,1.0000001192092896
+LIPITOR.536,sleepless nites,Muscle weakness,26544005,47,Insomnia,193462001,0.48772135376930237
+LIPITOR.536,Sight loss,Bloating symptom,248490000,38,Visual impairment,397540003,0.6267037987709045
+LIPITOR.536,very off balance,Impairment of balance,387603000,61,Impairment of balance,387603000,0.5887015461921692
+LIPITOR.536,hip pain,Hip pain,49218002,100,Hip pain,49218002,1.0000001192092896
+LIPITOR.536,lower back pain,Pain,22253000,100,Low back pain,279039007,0.9274994134902954
+LIPITOR.536,impossible to move,Unable to move,225601007,69,Unable to move,225601007,0.8714371919631958
+LIPITOR.699,mild flatulance,Flatulence/wind,267052005,80,Flatulence/wind,267052005,0.5175423622131348
+LIPITOR.699,low back pain,Low back pain,279039007,100,Low back pain,279039007,1.0000001192092896
+LIPITOR.699,back pain,Low back pain,279039007,100,Low back pain,279039007,0.8529183864593506
+LIPITOR.699,neck pain,Neck pain,81680005,100,Neck pain,81680005,1.0000001192092896
+LIPITOR.699,pain,Low back pain,279039007,100,Pain,22253000,1.0
+LIPITOR.792,Headaches,Headache,25064002,94,Headache,25064002,0.8963804841041565
+LIPITOR.792,body aches,Generalised aches and pains,82991003,67,Generalised aches and pains,82991003,0.705199122428894
+LIPITOR.792,joint stiffness,Joint stiffness,84445001,100,Joint stiffness,84445001,1.0
+LIPITOR.792,bloating,Bloating symptom,248490000,100,Bloating symptom,248490000,0.7783891558647156
+LIPITOR.792,excessive gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.7332717180252075
+LIPITOR.792,cramping,Muscle cramp,55300003,50,Muscle cramp,55300003,0.8147071003913879
+LIPITOR.792,irritability,Feeling irritable,55929007,55,Feeling irritable,55929007,0.8749237060546875
+LIPITOR.144,muscle spasms,Muscle cramp,55300003,67,Muscle cramp,55300003,0.7022744417190552
+LIPITOR.97,extreme forgetfulness,Forgetful,55533009,60,Forgetful,55533009,0.6935449242591858
+LIPITOR.97,extreme muscle pain,Renal pain,274279008,57,Severe pain,76948002,0.6868858933448792
+LIPITOR.97,insomnia,Insomnia,193462001,100,Insomnia,193462001,1.0
+LIPITOR.97,tremors,Tremor,26079004,92,Tremor,26079004,0.9452561736106873
+LIPITOR.97,cluster headaches,Cluster headache,193031009,97,Cluster headache,193031009,0.9796905517578125
+LIPITOR.97,kidney pain,Kidney disease,90708001,71,Renal pain,274279008,0.9565397500991821
+LIPITOR.97,urinary problems,Unable to walk,282145008,40,Renal pain,274279008,0.5028409361839294
+LIPITOR.97,unable to walk,Unable to walk,282145008,100,Unable to walk,282145008,1.0
+LIPITOR.97,unable to sleep,Unable to walk,282145008,78,Cannot sleep at all,248255005,0.9144306778907776
+LIPITOR.97,kidney problems,Kidney disease,90708001,62,Kidney disease,90708001,0.8078294396400452
+LIPITOR.97,urine like root beer,Unable to think clearly,247640008,51,Urine: dark/concentrated,167232003,0.6003934144973755
+LIPITOR.97,inability to think fast enough,Unable to think clearly,247640008,57,Unable to think clearly,247640008,0.582055926322937
+LIPITOR.97,Couldn't find words,Unable to find words,286381004,72,Unable to find words,286381004,0.8531269431114197
+LIPITOR.97,got lost on way,Unable to walk,282145008,41,Unable to walk,282145008,0.26202869415283203
+LIPITOR.97,muscle pain,Severe pain,76948002,64,Severe pain,76948002,0.6226533055305481
+LIPITOR.97,fatigue,Fatigue,84229001,100,Fatigue,84229001,1.0000001192092896
+LIPITOR.97,fatigue,Fatigue,84229001,100,Fatigue,84229001,1.0000001192092896
+LIPITOR.994,tingling in my feet,Pain in lower limb,10601006,38,Numbness of foot,309538000,0.6647387146949768
+LIPITOR.994,tingling in my shins,Pain in toe,285365001,45,Numbness of foot,309538000,0.4379822611808777
+LIPITOR.994,numbness in my feet,Numbness of foot,309538000,69,Numbness of foot,309538000,0.9041513800621033
+LIPITOR.994,numbness in my shins,Numbness of foot,309538000,67,Numbness of foot,309538000,0.664730429649353
+LIPITOR.994,my toes ached,Pain in toe,285365001,42,Pain in toe,285365001,0.6698441505432129
+LIPITOR.994,my feet hurt,Numbness of foot,309538000,36,Foot pain,47933007,0.7793256044387817
+LIPITOR.994,can't even sleep at night,Pins and needles,62507009,34,Insomnia,193462001,0.5190403461456299
+LIPITOR.994,sensations of tingling in my legs,Pain in lower limb,10601006,35,Numbness of lower limb,309537005,0.616216778755188
+LIPITOR.994,sensations of tingling in my feet,Numbness of foot,309538000,41,Numbness of foot,309538000,0.6995778679847717
+LIPITOR.359,extreme bloating,Bloating symptom,248490000,69,Bloating symptom,248490000,0.7954312562942505
+LIPITOR.359,increase my heart rate,Bloating symptom,248490000,37,Tachycardia,3424008,0.44075441360473633
+LIPITOR.359,could not sleep well,Difficulty sleeping,301345002,51,Difficulty sleeping,301345002,0.7420070171356201
+LIPITOR.359,bloating,Abdominal bloating,116289008,100,Bloating symptom,248490000,0.7783891558647156
+LIPITOR.359,gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.45498552918434143
+LIPITOR.359,bloating,Abdominal bloating,116289008,100,Bloating symptom,248490000,0.7783891558647156
+LIPITOR.359,drowsy,Drowsy,271782001,100,Drowsy,271782001,1.0000001192092896
+LIPITOR.359,sleep is not very sound,Difficulty sleeping,301345002,43,Difficulty sleeping,301345002,0.6483901739120483
+LIPITOR.359,pain neck,Neck pain,81680005,100,Neck pain,81680005,0.8889795541763306
+LIPITOR.359,bloating,Abdominal bloating,116289008,100,Bloating symptom,248490000,0.7783891558647156
+LIPITOR.359,gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.45498552918434143
+LIPITOR.359,pain,Neck pain,81680005,100,Pain,22253000,1.0
+LIPITOR.359,bloating,Abdominal bloating,116289008,100,Bloating symptom,248490000,0.7783891558647156
+LIPITOR.359,gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.45498552918434143
+LIPITOR.359,stomach upsets,Upset stomach,162059005,96,Upset stomach,162059005,0.9424048066139221
+LIPITOR.856,pain in hips,Hip pain,49218002,80,Hip pain,49218002,0.8791565299034119
+LIPITOR.856,cannot walk even a short distance due to pain,Hip pain,49218002,67,Unable to walk,282145008,0.7448077201843262
+LIPITOR.856,Legs felt like they had run a marathon,Muscle fatigue,80449002,31,Exhaustion,60119000,0.3890145719051361
+LIPITOR.856,Deep bruising,Deep bruising,262558009,100,Deep bruising,262558009,1.0
+LIPITOR.856,Joint pain in hips,Elbow joint pain,202480001,77,Hip pain,49218002,0.7991461157798767
+LIPITOR.856,Joint pain in elbows,Elbow joint pain,202480001,89,Elbow joint pain,202480001,0.8997454643249512
+LIPITOR.856,Joint pain in spine,Pain in spine,48926009,100,Pain in spine,48926009,0.8510705828666687
+LIPITOR.856,Exhaustion,Exhaustion,60119000,100,Exhaustion,60119000,1.0000001192092896
+LIPITOR.856,hip pain,Hip pain,49218002,100,Hip pain,49218002,1.0000001192092896
+LIPITOR.856,felt like an old woman,Walking disability,228158008,35,Severe pain,76948002,0.250910222530365
+LIPITOR.856,severe hip pain,Hip pain,49218002,100,Hip pain,49218002,0.9154301285743713
+LIPITOR.856,cannot walk more than 5 yards,Unable to walk,282145008,44,Unable to walk,282145008,0.6538361310958862
+VOLTAREN.22,stomach cramps,Stomach cramps,51197009,100,Stomach cramps,51197009,1.0000001192092896
+VOLTAREN.22,diarrhea,Diarrhoea,62315008,94,Diarrhoea,62315008,0.8394458889961243
+ARTHROTEC.122,pain with stomach cramps,Stomach cramps,51197009,100,Stomach cramps,51197009,0.9198099374771118
+ARTHROTEC.122,diarrhoa,Diarrhoea,62315008,94,Diarrhoea,62315008,0.9048928022384644
+ARTHROTEC.122,heavy menstral bleeding with clots even though i had just finished my cycle a week before,Bleeding,131148009,100,Bleeding,131148009,0.47273463010787964
+ARTHROTEC.122,couldnt pass urine,Urinary retention,267064002,40,Urinary retention,267064002,0.4517671465873718
+ARTHROTEC.122,urine full of blood,Bleeding,131148009,37,Urinary retention,267064002,0.5013232827186584
+ARTHROTEC.122,felt very weak,Haematuria,34436003,33,Tremor,26079004,0.28399085998535156
+ARTHROTEC.122,could not stop shaking,Stomach cramps,51197009,33,Tremor,26079004,0.5423842668533325
+ARTHROTEC.122,bleeding,Bleeding,131148009,100,Bleeding,131148009,1.0000001192092896
+LIPITOR.515,tire very quickly muscles,Muscle cramp,55300003,32,Muscle fatigue,80449002,0.4626055955886841
+LIPITOR.515,leg/foot cramps,Muscle cramp,55300003,59,Muscle cramp,55300003,0.7374971508979797
+LIPITOR.515,muscle tiring,Muscle fatigue,80449002,74,Muscle fatigue,80449002,0.6114826798439026
+LIPITOR.515,muscle fatigue,Muscle fatigue,80449002,100,Muscle fatigue,80449002,1.0000001192092896
+LIPITOR.515,cramping,Cramp in lower limb,449917004,52,Muscle cramp,55300003,0.8147069215774536
+SOLARAZE.2,hard to breathe,Difficulty breathing,230145002,51,Difficulty breathing,230145002,0.7448991537094116
+SOLARAZE.2,lungs feel heavy,Feeling unhappy,420038007,45,Difficulty breathing,230145002,0.560636579990387
+SOLARAZE.2,sadness,Tiredness symptom,267031002,50,Feeling unhappy,420038007,0.53790682554245
+SOLARAZE.2,tiredness,Tiredness symptom,267031002,100,Tiredness symptom,267031002,0.8300619721412659
+SOLARAZE.2,wanting to quit everything and give up,Difficulty breathing,230145002,34,Feeling unhappy,420038007,0.3818352520465851
+ARTHROTEC.58,Disorentatation,Disorientated,62476001,71,Disorientated,62476001,0.6558163166046143
+ARTHROTEC.58,trouble brathing,Arthrotec,3384011000036100,48,Disorientated,62476001,0.29585644602775574
+ARTHROTEC.58,extreme hot,Arthrotec,3384011000036100,40,Itching,418290006,0.24651139974594116
+ARTHROTEC.58,redness and swelling,Knee pain,30989003,34,Knee pain,30989003,0.3929128050804138
+ARTHROTEC.58,itching,Itching,418290006,100,Itching,418290006,1.0000001192092896
+ARTHROTEC.58,abominal cramps,Abdominal colic,9991008,67,Knee pain,30989003,0.35507988929748535
+LIPITOR.99,Torn ham string,Pain in lower limb,10601006,36,Pain,22253000,0.2518191933631897
+LIPITOR.99,pain in both legs,Pain,22253000,100,Pain in lower limb,10601006,0.7184565663337708
+LIPITOR.99,could hardly stand it,Pain in lower limb,10601006,26,Pain,22253000,0.23259781301021576
+LIPITOR.99,could hardly walk,Walking disability,228158008,40,Walking disability,228158008,0.4947625994682312
+LIPITOR.99,pain,Pain in lower limb,10601006,100,Pain,22253000,1.0
+LIPITOR.99,muscle pain,Pain,22253000,100,Pain,22253000,0.6681904196739197
+LIPITOR.743,Exhaustion after exercise,Impaired exercise tolerance,267044007,54,Impaired exercise tolerance,267044007,0.5708999037742615
+LIPITOR.743,Heavy limbs,Sensation of heaviness in limbs,373931001,62,Sensation of heaviness in limbs,373931001,0.5336959362030029
+LIPITOR.128,stiff neck,Stiff neck,161882006,100,Stiff neck,161882006,1.0
+LIPITOR.128,sore left testicle,Derealisation,40806005,39,Stiff neck,161882006,0.1925748884677887
+LIPITOR.128,arm muscles melting,Muscle atrophy,88092000,55,Muscle atrophy,88092000,0.4580853581428528
+LIPITOR.128,legs feel like they don't belong to me,Orchidodynia,63901009,20,Muscle atrophy,88092000,0.2792454957962036
+LIPITOR.500,Leg cramps,Cramp in lower limb,449917004,55,Cramp in lower limb,449917004,0.7357906103134155
+LIPITOR.500,pain,Pain,22253000,100,Pain,22253000,1.0000001192092896
+LIPITOR.500,Peripheral Neuropathy,Peripheral neuropathy,302226006,100,Peripheral neuropathy,302226006,1.0
+LIPITOR.500,"lost most of my feeling in feet, legs and hands",Paraesthesia of hand,309086004,36,Foot pain,47933007,0.4883177876472473
+LIPITOR.500,Tingeling in fingers,Tinea pedis,6020002,45,Paraesthesia of hand,309086004,0.4496985077857971
+LIPITOR.500,feet is painful,Foot pain,47933007,58,Foot pain,47933007,0.8557115793228149
+LIPITOR.500,Difficult to keep balance,Difficulty sleeping,301345002,59,Impairment of balance,387603000,0.7229516506195068
+LIPITOR.500,Difficult to walk,Difficulty sleeping,301345002,61,Walking disability,228158008,0.6790679097175598
+LIPITOR.500,Difficult to sleep,Difficulty sleeping,301345002,81,Difficulty sleeping,301345002,0.8664151430130005
+LIPITOR.500,burning,Burning sensation,90673000,100,Burning sensation,90673000,0.7915545701980591
+LIPITOR.500,pain,Pain,22253000,100,Pain,22253000,1.0000001192092896
+LIPITOR.500,leg cramps,Cramp in lower limb,449917004,55,Cramp in lower limb,449917004,0.7357906103134155
+LIPITOR.500,difficulty picking my feet up,Difficulty sleeping,301345002,71,Foot pain,47933007,0.46919387578964233
+LIPITOR.500,itching,Itching,418290006,100,Itching,418290006,1.0000001192092896
+LIPITOR.500,tingling,Itching,418290006,53,Burning sensation,90673000,0.5638043284416199
+LIPITOR.711,charley horses,Charleyhorse,54981004,92,Charleyhorse,54981004,0.8758668303489685
+LIPITOR.711,back ache,Backache,161891005,47,Backache,161891005,0.7416288256645203
+LIPITOR.711,neck ache,Neck pain,81680005,67,Neck pain,81680005,0.9289658665657043
+LIPITOR.711,lack of appetite,Loss of appetite,79890006,81,Loss of appetite,79890006,0.8550267219543457
+LIPITOR.711,nausea,Nausea,422587007,100,Nausea,422587007,1.0
+LIPITOR.711,veneer of sadness,Loss of appetite,79890006,42,Feeling unhappy,420038007,0.49989038705825806
+LIPITOR.177,paralysis,Paralysis,44695005,100,Paralysis,44695005,1.0
+LIPITOR.177,paralysis,Paralysis,44695005,100,Paralysis,44695005,1.0
+LIPITOR.177,peripheral neuropathy,Peripheral neuropathy,302226006,100,Peripheral neuropathy,302226006,1.0
+LIPITOR.177,paralysis,Paralysis,44695005,100,Paralysis,44695005,1.0
+LIPITOR.887,Sudden knee pain,Severe pain,76948002,59,Severe pain,76948002,0.5917379260063171
+LIPITOR.887,horriable crippeling pain hit both knees at same moment,Acute pain,274663001,57,Severe pain,76948002,0.534715473651886
+LIPITOR.887,lumpy swelling on both feet in same place on each,Foot swelling,297142003,76,Foot swelling,297142003,0.7814192175865173
+LIPITOR.887,sudden horriable grabbing pain in one ankle,Acute pain,274663001,57,Severe pain,76948002,0.5109473466873169
+LIPITOR.887,gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.45498552918434143
+LIPITOR.887,indigestion,Indigestion,162031009,100,Indigestion,162031009,1.0
+LIPITOR.887,acid reflux,Acid reflux,698065002,100,Acid reflux,698065002,1.0000001192092896
+LIPITOR.887,no energy,Lack of energy,248274002,80,Lack of energy,248274002,0.8015125393867493
+LIPITOR.887,confusion,Confusion,40917007,100,Confusion,40917007,1.0000001192092896
+LIPITOR.887,stumbeling,Stumbling gait,250991000119100,75,Confusion,40917007,0.2729676067829132
+LIPITOR.887,vertigo,Vertigo,399153001,100,Vertigo,399153001,1.0
+LIPITOR.887,memory loss,Lipitor,3877011000036101,33,Amnesia,48167000,0.5504356026649475
+LIPITOR.887,frequent sudden urges to go pee that came out with a force that sprayed everywhere,Urinary frequency,162116003,26,Urinary frequency,162116003,0.2933088541030884
+LIPITOR.887,Sudden grabbing pain in ankle,Acute pain,274663001,57,Foot swelling,297142003,0.5352739691734314
+LIPITOR.887,HORRIABLE pain that almost throws me down,Acute pain,274663001,57,Severe pain,76948002,0.6611082553863525
+LIPITOR.887,confusion,Confusion,40917007,100,Confusion,40917007,1.0000001192092896
+LIPITOR.604,depression,Depression,35489007,100,Depression,35489007,1.0
+LIPITOR.604,Depression,Depression,35489007,100,Depression,35489007,1.0
+LIPITOR.604,severe depression,Depression,35489007,100,Severe depression,310497006,1.0000001192092896
+LIPITOR.733,muscle pain,Pins and needles,62507009,44,Myalgia,68962001,0.5838261842727661
+LIPITOR.733,headache,Headache,25064002,100,Headache,25064002,1.0
+LIPITOR.733,tingling and sunny sensation on my face,Pins and needles,62507009,32,Headache,25064002,0.42810773849487305
+LIPITOR.733,gas,Excessive upper gastrointestinal gas,162076009,100,Excessive upper gastrointestinal gas,162076009,0.45498552918434143
+ARTHROTEC.27,severe mentrual cramps,Menstrual cramp,431416001,76,Menstrual cramp,431416001,0.7693432569503784
+ARTHROTEC.27,so much pain,Pain in pelvis,30473006,54,Severe pain,76948002,0.6440721154212952
+VOLTAREN.45,diarrhea,Diarrhoea,62315008,94,Diarrhoea,62315008,0.8394460678100586
+VOLTAREN.45,vomiting,Vomiting,422400008,100,Vomiting,422400008,1.0
+VOLTAREN.45,extreme sweating,Excessive sweating,52613005,76,Excessive sweating,52613005,0.9093250036239624
+VOLTAREN.45,dizzyness,Dizziness,404640003,89,Dizziness,404640003,0.8444830179214478
+VOLTAREN.45,very weak,Excessive sweating,52613005,44,Vomiting,422400008,0.24079068005084991
+VOLTAREN.45,chills,Chill,43724002,91,Chill,43724002,0.8281769156455994
+LIPITOR.517,heavy aching legs,Heavy legs,161873000,100,Heavy legs,161873000,0.7768145799636841
+LIPITOR.290,pain in arm,Pain,22253000,100,Pain in upper limb,102556003,0.7591633200645447
+LIPITOR.290,pain in shoulder,Shoulder pain,45326000,100,Shoulder pain,45326000,0.9827621579170227
+LIPITOR.290,could not lift arm,Difficulty moving arm,284143002,51,Difficulty moving arm,284143002,0.6759948134422302
+LIPITOR.290,pain,Pain in upper limb,102556003,100,Pain,22253000,1.0000001192092896
+LIPITOR.290,pain,Pain in upper limb,102556003,100,Pain,22253000,1.0000001192092896
+LIPITOR.666,Stomach cramps,Stomach cramps,51197009,100,Stomach cramps,51197009,1.0000001192092896
+LIPITOR.666,muscle pain,Low back pain,279039007,58,Low back pain,279039007,0.5917345285415649
+LIPITOR.666,lower back pain,Low back pain,279039007,93,Low back pain,279039007,0.9274995923042297
+LIPITOR.666,irritability,Feeling irritable,55929007,55,Feeling irritable,55929007,0.8749236464500427
+LIPITOR.666,flu-symptoms,Lipitor,3877011000036101,42,Influenza-like illness,95891005,0.6732220649719238
+LIPITOR.666,malaise,Malaise,367391008,100,Malaise,367391008,0.9999999403953552
+LIPITOR.639,Rash with blisters,Blistering rash,247464001,79,Blistering rash,247464001,0.9404476284980774
+LIPITOR.639,severe muscle aches,Feeling tired,314109004,25,Myalgia,68962001,0.4849160313606262
+LIPITOR.639,joint pain,Feeling tired,314109004,35,Myalgia,68962001,0.44879454374313354
+LIPITOR.639,extremely tired feeling,Feeling tired,314109004,100,Feeling tired,314109004,0.8407527804374695
+LIPITOR.639,no energy,Lack of energy,248274002,80,Lack of energy,248274002,0.8015126585960388
+LIPITOR.883,heart attack symptoms,N/A,N/A,-1,N/A,N/A,0.0
+ARTHROTEC.34,Bleeding mini periods,Lightheadedness,386705008,39,Hypomenorrhoea,64206003,0.2522295117378235
+ARTHROTEC.34,lightheaded,Lightheadedness,386705008,85,Lightheadedness,386705008,0.8853779435157776
+ARTHROTEC.34,finger tingling,Lightheadedness,386705008,20,Pins and needles,62507009,0.4639955163002014
+LIPITOR.588,Pain in lower back,Pain,22253000,100,Low back pain,279039007,0.9036880731582642
+LIPITOR.588,Pain in knees,Pain,22253000,100,Knee pain,30989003,0.9027915000915527
+LIPITOR.588,Pain in elbow,Pain in elbow,74323005,100,Pain in elbow,74323005,1.0
+LIPITOR.588,Stiffness in lower back,Low back pain,279039007,61,Low back pain,279039007,0.7086597681045532
+LIPITOR.588,Stiffness in legs,Stiff legs,225609009,74,Stiff legs,225609009,0.9014396071434021
+LIPITOR.588,Excercise intolerance,Impaired exercise tolerance,267044007,79,Impaired exercise tolerance,267044007,0.6369469165802002
+LIPITOR.588,general muscle weakness,Excessive upper gastrointestinal gas,162076009,27,Impaired exercise tolerance,267044007,0.4285784065723419
+LIPITOR.588,pains,Pain,22253000,89,Pain,22253000,0.8000088930130005
+LIPITOR.588,Pain in hip,Hip pain,49218002,100,Hip pain,49218002,0.9606032371520996
+LIPITOR.801,Severe back pain,Severe pain,76948002,100,Severe pain,76948002,0.6908774375915527
+LIPITOR.801,feet joint pain similar to arthritis,Pain,22253000,100,Arthralgia of the lower leg,267953003,0.5061266422271729
+LIPITOR.801,finger joint pain similar to arthritis,Pain,22253000,100,Severe pain,76948002,0.4656298756599426
+LIPITOR.801,Leg joint pain similar to arthritis,Pain,22253000,100,Arthralgia of the lower leg,267953003,0.6128576993942261
+LIPITOR.801,Planta fasciitis similarities,Severe pain,76948002,35,Arthralgia of the lower leg,267953003,0.3011336624622345
+LIPITOR.801,Big weight gain in stomach area,Weight increased,262286000,55,Weight increased,262286000,0.5274723768234253
+LIPITOR.801,never felt so old in my life,Arthralgia of the lower leg,267953003,40,Pain,22253000,0.23918917775154114
+LIPITOR.801,back pain,Pain,22253000,100,Backache,161891005,0.69291090965271
+LIPITOR.801,pain,Severe pain,76948002,100,Pain,22253000,1.0
+LIPITOR.751,weakness,Amnesia,48167000,53,Amnesia,48167000,0.2960732877254486
+LIPITOR.751,muscle pain,Knee pain,30989003,62,Myalgia,68962001,0.5838261842727661
+LIPITOR.751,knee pain,Knee pain,30989003,100,Knee pain,30989003,1.0
+LIPITOR.751,memory loss,Asthenia,13791008,21,Amnesia,48167000,0.550435483455658
+LIPITOR.367,intense dizziness,Dizziness,404640003,100,Dizziness,404640003,0.8997771739959717
+LIPITOR.367,intense chills and shivers,Dizziness,404640003,40,Chill,43724002,0.48908257484436035
+LIPITOR.367,lassitude,Asthenia,13791008,35,Asthenia,13791008,0.23014329373836517
+LIPITOR.374,night muscle cramps,Muscle cramp,55300003,77,Muscle cramp,55300003,0.7551427483558655
+LIPITOR.781,muscle aches in arms,Myalgia,68962001,15,Myalgia,68962001,0.4028284251689911

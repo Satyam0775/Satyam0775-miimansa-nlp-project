@@ -1,0 +1,9 @@
+T1	ADR 0 10	depression
+T2	Symptom 21 23	!!
+T3	Symptom 30 46	increasing doses
+T4	ADR 59 69	depression
+T5	ADR 97 100	and
+T6	Symptom 108 117	six times
+T7	ADR 164 174	depression
+T8	Drug 189 198	went away
+T9	Disease 262 274	heart attack

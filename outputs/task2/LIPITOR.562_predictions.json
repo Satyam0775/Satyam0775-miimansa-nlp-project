@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "15 17",
+    "text": "or"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "18 19",
+    "text": "4"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "43 55",
+    "text": "very intense"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "63 67",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "73 80",
+    "text": "burning"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "168 186",
+    "text": "from a few minutes"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "190 191",
+    "text": "a"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "192 198",
+    "text": "couple"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "199 207",
+    "text": "of hours"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "217 226",
+    "text": "fade away"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "254 261",
+    "text": "intense"
+  },
+  {
+    "id": "T12",
+    "label": "ADR",
+    "span": "269 273",
+    "text": "pain"
+  },
+  {
+    "id": "T13",
+    "label": "ADR",
+    "span": "279 294",
+    "text": "intense burning"
+  },
+  {
+    "id": "T14",
+    "label": "Symptom",
+    "span": "359 369",
+    "text": "a few days"
+  },
+  {
+    "id": "T15",
+    "label": "Symptom",
+    "span": "444 460",
+    "text": "at least a month"
+  },
+  {
+    "id": "T16",
+    "label": "ADR",
+    "span": "476 481",
+    "text": "pains"
+  },
+  {
+    "id": "T17",
+    "label": "ADR",
+    "span": "523 524",
+    "text": "2"
+  },
+  {
+    "id": "T18",
+    "label": "ADR",
+    "span": "647 652",
+    "text": "pains"
+  },
+  {
+    "id": "T19",
+    "label": "Symptom",
+    "span": "653 665",
+    "text": "occasionally"
+  },
+  {
+    "id": "T20",
+    "label": "Symptom",
+    "span": "675 680",
+    "text": "weeks"
+  }
+]

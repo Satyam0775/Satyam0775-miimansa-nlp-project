@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "271 275",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "283 297",
+    "text": "liver problems"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "409 428",
+    "text": "night muscle cramps"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "444 468",
+    "text": "occasional muscle cramps"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "472 477",
+    "text": "night"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "486 491",
+    "text": "was a"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "668 675",
+    "text": "unlucky"
+  }
+]

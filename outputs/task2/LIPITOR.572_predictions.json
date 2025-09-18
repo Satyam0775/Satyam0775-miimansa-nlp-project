@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "32 38",
+    "text": "80mg a"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "46 49",
+    "text": "lip"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "88 106",
+    "text": "little over a week"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "126 130",
+    "text": "sick"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "151 159",
+    "text": "two days"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "194 201",
+    "text": "fatigue"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "221 230",
+    "text": "twitching"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "349 356",
+    "text": "lowered"
+  }
+]

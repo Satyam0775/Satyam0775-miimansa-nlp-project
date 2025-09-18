@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "Disease",
+    "span": "30 42",
+    "text": "heart attack"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "188 196",
+    "text": "reaction"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "414 421",
+    "text": "a while"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "456 462",
+    "text": "normal"
+  }
+]

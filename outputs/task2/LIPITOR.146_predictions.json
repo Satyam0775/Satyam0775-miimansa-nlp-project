@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "11 15",
+    "text": "10mg"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "33 37",
+    "text": "20mg"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "46 48",
+    "text": "40"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "94 98",
+    "text": "sore"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "156 185",
+    "text": "more than a few hundred yards"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "224 232",
+    "text": "symptoms"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "312 326",
+    "text": "nearly a month"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "482 491",
+    "text": "disrupted"
+  }
+]

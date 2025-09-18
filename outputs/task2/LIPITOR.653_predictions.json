@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "15 19",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "28 34",
+    "text": "vision"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "45 62",
+    "text": "fibromyalgia numb"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "88 89",
+    "text": "0"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "156 164",
+    "text": "2+ years"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "427 435",
+    "text": "problems"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "441 448",
+    "text": "lipitor"
+  }
+]

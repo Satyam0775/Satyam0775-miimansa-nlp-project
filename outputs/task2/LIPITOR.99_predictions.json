@@ -1,0 +1,62 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "torn"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "21 27",
+    "text": "months"
+  },
+  {
+    "id": "T3",
+    "label": "Drug",
+    "span": "31 46",
+    "text": "aquatic therapy"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "85 89",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "248 261",
+    "text": "feel the same"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "367 371",
+    "text": "walk"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "486 498",
+    "text": "a few months"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "507 511",
+    "text": "pain"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "531 536",
+    "text": "40 mg"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "541 549",
+    "text": "10 years"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "85 107",
+    "text": "unable to even climb 1"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "170 178",
+    "text": "headache"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "190 199",
+    "text": "confusion"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "204 210",
+    "text": "memory"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "217 235",
+    "text": "uncontrollable gas"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "240 248",
+    "text": "diarrhea"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "262 269",
+    "text": "burning"
+  },
+  {
+    "id": "T9",
+    "label": "Drug",
+    "span": "330 346",
+    "text": "physical therapy"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "351 355",
+    "text": "pain"
+  }
+]

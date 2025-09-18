@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "36 44",
+    "text": "lift arm"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "74 81",
+    "text": "2 weeks"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "93 98",
+    "text": "sleep"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "110 114",
+    "text": "pain"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "196 211",
+    "text": "down 100 points"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "255 259",
+    "text": "pain"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "ache"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "10 15",
+    "text": "pains"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "17 34",
+    "text": "muscular soreness"
+  }
+]

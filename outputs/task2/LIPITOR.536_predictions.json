@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "46 49",
+    "text": "con"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "73 77",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "92 103",
+    "text": "memory loss"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "108 115",
+    "text": "fatigue"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "120 135",
+    "text": "muscle weakness"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "156 161",
+    "text": "sleep"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "173 183",
+    "text": "sight loss"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "193 204",
+    "text": "off balance"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "292 296",
+    "text": "pain"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "367 374",
+    "text": "got off"
+  },
+  {
+    "id": "T11",
+    "label": "Drug",
+    "span": "436 443",
+    "text": "surgery"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "457 475",
+    "text": "a couple of months"
+  },
+  {
+    "id": "T13",
+    "label": "Symptom",
+    "span": "492 510",
+    "text": "a couple of months"
+  },
+  {
+    "id": "T14",
+    "label": "Symptom",
+    "span": "532 536",
+    "text": "both"
+  },
+  {
+    "id": "T15",
+    "label": "Drug",
+    "span": "556 559",
+    "text": "lip"
+  },
+  {
+    "id": "T16",
+    "label": "ADR",
+    "span": "595 599",
+    "text": "pain"
+  },
+  {
+    "id": "T17",
+    "label": "Symptom",
+    "span": "728 734",
+    "text": "better"
+  },
+  {
+    "id": "T18",
+    "label": "ADR",
+    "span": "758 762",
+    "text": "pain"
+  },
+  {
+    "id": "T19",
+    "label": "Drug",
+    "span": "792 799",
+    "text": "lipitor"
+  },
+  {
+    "id": "T20",
+    "label": "Symptom",
+    "span": "858 865",
+    "text": "5 month"
+  }
+]

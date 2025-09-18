@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "8 13",
+    "text": "diarr"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "18 26",
+    "text": "vomiting"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "46 51",
+    "text": "dizzy"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "57 66",
+    "text": "very weak"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "68 83",
+    "text": "powerful chills"
+  }
+]

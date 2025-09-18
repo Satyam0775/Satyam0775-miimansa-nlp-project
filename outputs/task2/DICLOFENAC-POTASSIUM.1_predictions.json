@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "21 25",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "29 43",
+    "text": "unknown origin"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "79 93",
+    "text": "almost 4 month"
+  },
+  {
+    "id": "T4",
+    "label": "Drug",
+    "span": "206 208",
+    "text": "ab"
+  }
+]

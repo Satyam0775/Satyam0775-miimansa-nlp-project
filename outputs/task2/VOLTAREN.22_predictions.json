@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "7 21",
+    "text": "stomach cramps"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "26 31",
+    "text": "diarr"
+  }
+]

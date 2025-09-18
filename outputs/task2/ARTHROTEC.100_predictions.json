@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "3 15",
+    "text": "side effects"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "30 33",
+    "text": "two"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "56 64",
+    "text": "bleeding"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "65 70",
+    "text": "2 wks"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "107 118",
+    "text": "canker sore"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "133 141",
+    "text": "headache"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "143 151",
+    "text": "been off"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "156 162",
+    "text": "1 week"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "194 198",
+    "text": "pain"
+  }
+]

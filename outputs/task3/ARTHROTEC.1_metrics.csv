@@ -1,0 +1,2 @@
+File,True Positives,False Positives,False Negatives,Precision,Recall,F1-score
+ARTHROTEC.1,2,7,6,0.2222222222222222,0.25,0.23529411764705882

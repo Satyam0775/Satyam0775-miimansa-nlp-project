@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "12 16",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "44 48",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "Disease",
+    "span": "71 87",
+    "text": "planta fasciitis"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "106 112",
+    "text": "weight"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "191 197",
+    "text": "10 mlg"
+  }
+]

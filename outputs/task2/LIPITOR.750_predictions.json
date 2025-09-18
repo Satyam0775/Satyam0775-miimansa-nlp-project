@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "14 22",
+    "text": "soreness"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "47 54",
+    "text": "sorness"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "123 127",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "251 255",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "372 376",
+    "text": "20mg"
+  },
+  {
+    "id": "T6",
+    "label": "Drug",
+    "span": "538 540",
+    "text": "ho"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "697 701",
+    "text": "pain"
+  },
+  {
+    "id": "T8",
+    "label": "Drug",
+    "span": "770 777",
+    "text": "lipitor"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "865 869",
+    "text": "pain"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "953 957",
+    "text": "180'"
+  },
+  {
+    "id": "T11",
+    "label": "Symptom",
+    "span": "986 995",
+    "text": "below 218"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "1053 1062",
+    "text": "few years"
+  },
+  {
+    "id": "T13",
+    "label": "Symptom",
+    "span": "1092 1095",
+    "text": "240"
+  },
+  {
+    "id": "T14",
+    "label": "Drug",
+    "span": "1224 1231",
+    "text": "lipitor"
+  }
+]

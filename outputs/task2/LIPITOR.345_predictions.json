@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "57 64",
+    "text": "8 years"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "108 114",
+    "text": "sudden"
+  },
+  {
+    "id": "T3",
+    "label": "Disease",
+    "span": "131 141",
+    "text": "infections"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "142 160",
+    "text": "every 3 - 5 months"
+  },
+  {
+    "id": "T5",
+    "label": "Disease",
+    "span": "197 207",
+    "text": "infections"
+  }
+]

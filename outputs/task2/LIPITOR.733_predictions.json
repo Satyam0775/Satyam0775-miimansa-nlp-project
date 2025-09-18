@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "7 11",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "13 21",
+    "text": "headache"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "23 31",
+    "text": "tingling"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "36 41",
+    "text": "sunny"
+  }
+]

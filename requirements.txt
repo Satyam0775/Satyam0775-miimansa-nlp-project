@@ -1,0 +1,8 @@
+transformers
+datasets
+torch
+sentence-transformers
+scikit-learn
+seqeval
+pandas
+tqdm

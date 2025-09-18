@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "0 13",
+    "text": "10 mg lowered"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "52 61",
+    "text": "continues"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "65 73",
+    "text": "decrease"
+  }
+]

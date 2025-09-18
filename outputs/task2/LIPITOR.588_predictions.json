@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "40 49",
+    "text": "stiffness"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "184 189",
+    "text": "pains"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "190 196",
+    "text": "months"
+  },
+  {
+    "id": "T5",
+    "label": "Drug",
+    "span": "213 220",
+    "text": "lipitor"
+  }
+]

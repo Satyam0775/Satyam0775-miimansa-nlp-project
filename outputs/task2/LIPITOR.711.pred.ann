@@ -1,0 +1,9 @@
+T1	ADR 0 7	charley
+T2	ADR 29 33	pain
+T3	ADR 61 69	appetite
+T4	ADR 90 96	nausea
+T5	Symptom 141 165	over the past few months
+T6	Symptom 189 192	326
+T7	Symptom 196 199	270
+T8	Symptom 203 211	3 months
+T9	Drug 224 228	tp d

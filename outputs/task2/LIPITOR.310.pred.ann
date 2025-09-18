@@ -1,0 +1,12 @@
+T1	Symptom 11 22	2 1/2 weeks
+T2	Drug 26 33	lipitor
+T3	ADR 96 104	headache
+T4	ADR 197 200	flu
+T5	ADR 216 224	swelling
+T6	ADR 266 271	sleep
+T7	Drug 398 405	lipitor
+T8	Symptom 410 419	two weeks
+T9	Drug 473 480	lipitor
+T10	Symptom 523 529	normal
+T11	Symptom 559 567	one week
+T12	ADR 601 605	sore

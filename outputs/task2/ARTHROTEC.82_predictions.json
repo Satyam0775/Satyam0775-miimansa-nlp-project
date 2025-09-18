@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "6 9",
+    "text": "dia"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "33 37",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "48 56",
+    "text": "constant"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "61 68",
+    "text": "4 hours"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "119 128",
+    "text": "arthrotec"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "152 165",
+    "text": "strual cramps"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "180 184",
+    "text": "pain"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "438 441",
+    "text": "men"
+  }
+]

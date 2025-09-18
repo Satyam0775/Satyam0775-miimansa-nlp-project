@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "20 31",
+    "text": "memory loss"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "69 72",
+    "text": "fog"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "41 46",
+    "text": "lower"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "78 85",
+    "text": "feeling"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "94 98",
+    "text": "mind"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "154 164",
+    "text": "t remember"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "255 261",
+    "text": "weaker"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "407 422",
+    "text": "10mg once a day"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "449 453",
+    "text": "10mg"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "480 486",
+    "text": "12.5mg"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "493 503",
+    "text": "once a day"
+  }
+]

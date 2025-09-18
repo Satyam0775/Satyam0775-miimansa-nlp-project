@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 7",
+    "text": "charley"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "29 33",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "61 69",
+    "text": "appetite"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "90 96",
+    "text": "nausea"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "141 165",
+    "text": "over the past few months"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "189 192",
+    "text": "326"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "196 199",
+    "text": "270"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "203 211",
+    "text": "3 months"
+  },
+  {
+    "id": "T9",
+    "label": "Drug",
+    "span": "224 228",
+    "text": "tp d"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "16 26",
+    "text": "flatulance"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "75 79",
+    "text": "itor"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "96 99",
+    "text": "low"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "105 109",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "225 229",
+    "text": "pain"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "330 338",
+    "text": "over 600"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "391 394",
+    "text": "med"
+  },
+  {
+    "id": "T8",
+    "label": "Drug",
+    "span": "695 702",
+    "text": "lipitor"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "727 732",
+    "text": "or so"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "809 818",
+    "text": "past year"
+  }
+]

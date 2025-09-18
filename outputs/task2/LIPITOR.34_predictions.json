@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "0 25",
+    "text": "over the past three years"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "39 56",
+    "text": "definately worked"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "87 107",
+    "text": "dibilitating problem"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "135 171",
+    "text": "unable to move them in any direction"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "180 186",
+    "text": "normal"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "225 232",
+    "text": "turning"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "272 276",
+    "text": "pain"
+  },
+  {
+    "id": "T8",
+    "label": "Disease",
+    "span": "328 331",
+    "text": "lip"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "388 390",
+    "text": "no"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "645 651",
+    "text": "annual"
+  },
+  {
+    "id": "T11",
+    "label": "Symptom",
+    "span": "665 666",
+    "text": "/"
+  },
+  {
+    "id": "T12",
+    "label": "Drug",
+    "span": "718 725",
+    "text": "lipitor"
+  }
+]

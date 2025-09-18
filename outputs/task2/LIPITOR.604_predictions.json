@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 10",
+    "text": "depression"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "21 23",
+    "text": "!!"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "30 46",
+    "text": "increasing doses"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "59 69",
+    "text": "depression"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "97 100",
+    "text": "and"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "108 117",
+    "text": "six times"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "164 174",
+    "text": "depression"
+  },
+  {
+    "id": "T8",
+    "label": "Drug",
+    "span": "189 198",
+    "text": "went away"
+  },
+  {
+    "id": "T9",
+    "label": "Disease",
+    "span": "262 274",
+    "text": "heart attack"
+  }
+]

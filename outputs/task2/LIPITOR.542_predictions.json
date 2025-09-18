@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "25 33",
+    "text": "increase"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "37 55",
+    "text": "burning sensations"
+  }
+]

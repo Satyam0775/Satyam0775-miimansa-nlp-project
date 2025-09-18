@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "72 74",
+    "text": "cr"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "94 101",
+    "text": "fatigue"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "161 164",
+    "text": "4 y"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "580 587",
+    "text": "fatigue"
+  }
+]

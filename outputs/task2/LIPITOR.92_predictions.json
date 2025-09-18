@@ -1,0 +1,110 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 11",
+    "text": "muscle ache"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "17 25",
+    "text": "weakness"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "77 81",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "122 126",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "131 139",
+    "text": "weakness"
+  },
+  {
+    "id": "T6",
+    "label": "Drug",
+    "span": "170 178",
+    "text": "dressing"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "215 220",
+    "text": "daily"
+  },
+  {
+    "id": "T8",
+    "label": "Drug",
+    "span": "280 284",
+    "text": "belt"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "446 454",
+    "text": "12 weeks"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "603 611",
+    "text": "elevated"
+  },
+  {
+    "id": "T11",
+    "label": "Drug",
+    "span": "801 804",
+    "text": "lip"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "819 822",
+    "text": "50%"
+  },
+  {
+    "id": "T13",
+    "label": "ADR",
+    "span": "898 902",
+    "text": "stat"
+  },
+  {
+    "id": "T14",
+    "label": "ADR",
+    "span": "905 912",
+    "text": "induced"
+  },
+  {
+    "id": "T15",
+    "label": "Symptom",
+    "span": "970 978",
+    "text": "elevated"
+  },
+  {
+    "id": "T16",
+    "label": "Disease",
+    "span": "979 982",
+    "text": "cpk"
+  },
+  {
+    "id": "T17",
+    "label": "Symptom",
+    "span": "1091 1100",
+    "text": "two years"
+  },
+  {
+    "id": "T18",
+    "label": "ADR",
+    "span": "1167 1171",
+    "text": "pain"
+  }
+]

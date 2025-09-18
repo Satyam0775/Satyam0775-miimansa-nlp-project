@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 8",
+    "text": "diarrhea"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "30 40",
+    "text": "unbearable"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "83 84",
+    "text": "2"
+  }
+]

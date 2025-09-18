@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "16 23",
+    "text": "trouble"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "69 71",
+    "text": "it"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "195 199",
+    "text": "pain"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "235 240",
+    "text": "10-12"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "308 312",
+    "text": "pain"
+  }
+]

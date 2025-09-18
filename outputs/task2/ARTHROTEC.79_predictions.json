@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "361 363",
+    "text": "50"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "369 374",
+    "text": "daily"
+  }
+]

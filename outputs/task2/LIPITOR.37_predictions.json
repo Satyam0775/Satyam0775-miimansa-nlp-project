@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "29 37",
+    "text": "10 years"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "116 120",
+    "text": "itor"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "121 125",
+    "text": "40mg"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "141 145",
+    "text": "fair"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "166 170",
+    "text": "80mg"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "176 185",
+    "text": "excellent"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "227 230",
+    "text": "160"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "38 44",
+    "text": "vision"
+  },
+  {
+    "id": "T2",
+    "label": "Disease",
+    "span": "102 110",
+    "text": "migraine"
+  },
+  {
+    "id": "T3",
+    "label": "Disease",
+    "span": "163 169",
+    "text": "vision"
+  },
+  {
+    "id": "T4",
+    "label": "Disease",
+    "span": "266 272",
+    "text": "vision"
+  }
+]

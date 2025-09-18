@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "8 12",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "24 30",
+    "text": "spasms"
+  }
+]

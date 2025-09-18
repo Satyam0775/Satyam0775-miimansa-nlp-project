@@ -1,0 +1,14 @@
+T1	ADR 14 22	soreness
+T2	ADR 47 54	sorness
+T3	ADR 123 127	pain
+T4	ADR 251 255	pain
+T5	Symptom 372 376	20mg
+T6	Drug 538 540	ho
+T7	ADR 697 701	pain
+T8	Drug 770 777	lipitor
+T9	ADR 865 869	pain
+T10	Symptom 953 957	180'
+T11	Symptom 986 995	below 218
+T12	Symptom 1053 1062	few years
+T13	Symptom 1092 1095	240
+T14	Drug 1224 1231	lipitor

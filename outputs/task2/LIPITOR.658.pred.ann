@@ -1,0 +1,13 @@
+T1	ADR 45 50	early
+T2	Disease 51 62	parkinson's
+T3	ADR 130 141	joint pains
+T4	ADR 143 159	light headedness
+T5	ADR 185 192	tremors
+T6	Symptom 233 245	deteriorated
+T7	Disease 339 341	ld
+T8	Symptom 458 460	50
+T9	Symptom 463 474	twice a day
+T10	Symptom 489 495	1200mg
+T11	Symptom 497 507	once a day
+T12	Disease 570 590	parkinson's symptoms
+T13	Drug 596 599	lip

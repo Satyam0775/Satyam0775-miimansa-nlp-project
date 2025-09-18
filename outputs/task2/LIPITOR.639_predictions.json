@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "rash"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "34 38",
+    "text": "ache"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "66 71",
+    "text": "tired"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "118 121",
+    "text": "two"
+  }
+]

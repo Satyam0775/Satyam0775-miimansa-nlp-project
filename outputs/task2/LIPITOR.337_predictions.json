@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "14 18",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "44 48",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "54 61",
+    "text": "3 weeks"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "105 109",
+    "text": "pain"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "114 128",
+    "text": "sports related"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "237 244",
+    "text": "3 weeks"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "290 297",
+    "text": "lipitor"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "358 362",
+    "text": "pain"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "438 440",
+    "text": "80"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "5 30",
+    "text": "persistent dry skin spots"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "63 68",
+    "text": "pains"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "79 86",
+    "text": "reduced"
+  }
+]

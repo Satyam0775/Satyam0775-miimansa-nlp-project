@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "4 17",
+    "text": "muscle spasms"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "67 75",
+    "text": "4 stairs"
+  }
+]

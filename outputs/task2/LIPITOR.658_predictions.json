@@ -1,0 +1,80 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "45 50",
+    "text": "early"
+  },
+  {
+    "id": "T2",
+    "label": "Disease",
+    "span": "51 62",
+    "text": "parkinson's"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "130 141",
+    "text": "joint pains"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "143 159",
+    "text": "light headedness"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "185 192",
+    "text": "tremors"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "233 245",
+    "text": "deteriorated"
+  },
+  {
+    "id": "T7",
+    "label": "Disease",
+    "span": "339 341",
+    "text": "ld"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "458 460",
+    "text": "50"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "463 474",
+    "text": "twice a day"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "489 495",
+    "text": "1200mg"
+  },
+  {
+    "id": "T11",
+    "label": "Symptom",
+    "span": "497 507",
+    "text": "once a day"
+  },
+  {
+    "id": "T12",
+    "label": "Disease",
+    "span": "570 590",
+    "text": "parkinson's symptoms"
+  },
+  {
+    "id": "T13",
+    "label": "Drug",
+    "span": "596 599",
+    "text": "lip"
+  }
+]

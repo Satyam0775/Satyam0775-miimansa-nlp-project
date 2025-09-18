@@ -1,0 +1,170 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 6",
+    "text": "sudden"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "12 16",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "17 23",
+    "text": "2 week"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "33 35",
+    "text": "ho"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "38 58",
+    "text": "able crippeling pain"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "104 115",
+    "text": "odd painful"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "117 131",
+    "text": "lumpy swelling"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "148 152",
+    "text": "same"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "173 182",
+    "text": "sudden ho"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "190 203",
+    "text": "grabbing pain"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "305 320",
+    "text": "frequent sudden"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "469 482",
+    "text": "every morning"
+  },
+  {
+    "id": "T13",
+    "label": "ADR",
+    "span": "488 490",
+    "text": "ho"
+  },
+  {
+    "id": "T14",
+    "label": "ADR",
+    "span": "498 502",
+    "text": "pain"
+  },
+  {
+    "id": "T15",
+    "label": "ADR",
+    "span": "534 541",
+    "text": "useless"
+  },
+  {
+    "id": "T16",
+    "label": "Disease",
+    "span": "629 639",
+    "text": "tendonitis"
+  },
+  {
+    "id": "T17",
+    "label": "Disease",
+    "span": "644 653",
+    "text": "burscitis"
+  },
+  {
+    "id": "T18",
+    "label": "ADR",
+    "span": "679 687",
+    "text": "problems"
+  },
+  {
+    "id": "T19",
+    "label": "Symptom",
+    "span": "749 755",
+    "text": "a year"
+  },
+  {
+    "id": "T20",
+    "label": "ADR",
+    "span": "757 777",
+    "text": "sudden grabbing pain"
+  },
+  {
+    "id": "T21",
+    "label": "ADR",
+    "span": "803 805",
+    "text": "ho"
+  },
+  {
+    "id": "T22",
+    "label": "ADR",
+    "span": "813 817",
+    "text": "pain"
+  },
+  {
+    "id": "T23",
+    "label": "Symptom",
+    "span": "851 855",
+    "text": "days"
+  },
+  {
+    "id": "T24",
+    "label": "ADR",
+    "span": "862 871",
+    "text": "confusion"
+  },
+  {
+    "id": "T25",
+    "label": "ADR",
+    "span": "923 924",
+    "text": "5"
+  },
+  {
+    "id": "T26",
+    "label": "ADR",
+    "span": "1050 1056",
+    "text": "damage"
+  },
+  {
+    "id": "T27",
+    "label": "ADR",
+    "span": "1764 1769",
+    "text": "fools"
+  },
+  {
+    "id": "T28",
+    "label": "ADR",
+    "span": "1806 1810",
+    "text": "free"
+  }
+]

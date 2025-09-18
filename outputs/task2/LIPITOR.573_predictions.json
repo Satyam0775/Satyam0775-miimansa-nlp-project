@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "17 21",
+    "text": "ache"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "57 62",
+    "text": "worse"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "104 106",
+    "text": "83"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "137 144",
+    "text": "7 years"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "210 213",
+    "text": "two"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "222 231",
+    "text": "restarted"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "236 244",
+    "text": "symptoms"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "285 290",
+    "text": "2 yrs"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "300 312",
+    "text": "40 mg once a"
+  }
+]

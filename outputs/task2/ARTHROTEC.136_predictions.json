@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "Drug",
+    "span": "82 91",
+    "text": "arthrotec"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "92 106",
+    "text": "75 twice a day"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "145 158",
+    "text": "twice per day"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "170 178",
+    "text": "once per"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "251 255",
+    "text": "pain"
+  }
+]

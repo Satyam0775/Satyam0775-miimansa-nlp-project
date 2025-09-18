@@ -1,0 +1,68 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 4",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "53 57",
+    "text": "numb"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "67 71",
+    "text": "weak"
+  },
+  {
+    "id": "T4",
+    "label": "Disease",
+    "span": "107 111",
+    "text": "carp"
+  },
+  {
+    "id": "T5",
+    "label": "Disease",
+    "span": "114 120",
+    "text": "tunnel"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "138 148",
+    "text": "difficulty"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "184 188",
+    "text": ", 02"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "193 195",
+    "text": "03"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "330 337",
+    "text": "push up"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "449 453",
+    "text": "pain"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "512 517",
+    "text": "aging"
+  }
+]

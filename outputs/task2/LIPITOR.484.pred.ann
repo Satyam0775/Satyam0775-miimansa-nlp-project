@@ -1,0 +1,11 @@
+T1	Symptom 7 12	10 mg
+T2	Drug 17 20	lip
+T3	ADR 50 54	ache
+T4	Symptom 59 68	few weeks
+T5	ADR 115 119	pain
+T6	Disease 124 126	md
+T7	Disease 172 191	rotator cuff injury
+T8	ADR 245 253	fracture
+T9	Symptom 288 300	past 2 weeks
+T10	Symptom 443 462	last couple of days
+T11	ADR 486 490	pain

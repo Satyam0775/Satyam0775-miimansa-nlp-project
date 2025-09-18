@@ -1,0 +1,11 @@
+T1	ADR 0 4	pain
+T2	ADR 53 57	numb
+T3	ADR 67 71	weak
+T4	Disease 107 111	carp
+T5	Disease 114 120	tunnel
+T6	ADR 138 148	difficulty
+T7	Symptom 184 188	, 02
+T8	Symptom 193 195	03
+T9	ADR 330 337	push up
+T10	ADR 449 453	pain
+T11	ADR 512 517	aging

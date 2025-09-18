@@ -1,0 +1,18 @@
+T1	ADR 0 11	muscle ache
+T2	ADR 17 25	weakness
+T3	ADR 77 81	pain
+T4	ADR 122 126	pain
+T5	ADR 131 139	weakness
+T6	Drug 170 178	dressing
+T7	ADR 215 220	daily
+T8	Drug 280 284	belt
+T9	Symptom 446 454	12 weeks
+T10	Symptom 603 611	elevated
+T11	Drug 801 804	lip
+T12	Symptom 819 822	50%
+T13	ADR 898 902	stat
+T14	ADR 905 912	induced
+T15	Symptom 970 978	elevated
+T16	Disease 979 982	cpk
+T17	Symptom 1091 1100	two years
+T18	ADR 1167 1171	pain

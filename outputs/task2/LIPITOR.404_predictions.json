@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "23 30",
+    "text": "lowered"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "46 53",
+    "text": "149-175"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "90 97",
+    "text": "lowered"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "101 104",
+    "text": "149"
+  }
+]

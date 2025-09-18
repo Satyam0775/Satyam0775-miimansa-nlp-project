@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "11 22",
+    "text": "2 1/2 weeks"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "26 33",
+    "text": "lipitor"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "96 104",
+    "text": "headache"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "197 200",
+    "text": "flu"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "216 224",
+    "text": "swelling"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "266 271",
+    "text": "sleep"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "398 405",
+    "text": "lipitor"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "410 419",
+    "text": "two weeks"
+  },
+  {
+    "id": "T9",
+    "label": "Drug",
+    "span": "473 480",
+    "text": "lipitor"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "523 529",
+    "text": "normal"
+  },
+  {
+    "id": "T11",
+    "label": "Symptom",
+    "span": "559 567",
+    "text": "one week"
+  },
+  {
+    "id": "T12",
+    "label": "ADR",
+    "span": "601 605",
+    "text": "sore"
+  }
+]

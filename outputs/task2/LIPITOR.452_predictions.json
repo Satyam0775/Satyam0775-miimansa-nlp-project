@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "5 9",
+    "text": "pain"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "56 60",
+    "text": "very"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "61 69",
+    "text": "frequent"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "79 91",
+    "text": "light uphill"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "165 170",
+    "text": "twice"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "246 251",
+    "text": "twice"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "278 286",
+    "text": "fatigued"
+  },
+  {
+    "id": "T8",
+    "label": "Drug",
+    "span": "373 375",
+    "text": "ex"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "375 381",
+    "text": "ercize"
+  }
+]

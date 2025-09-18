@@ -1,0 +1,44 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "19 28",
+    "text": "dizziness"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "44 46",
+    "text": "an"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "80 86",
+    "text": "chills"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "91 98",
+    "text": "shivers"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "114 116",
+    "text": "an"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "127 136",
+    "text": "continued"
+  },
+  {
+    "id": "T7",
+    "label": "Drug",
+    "span": "164 168",
+    "text": "cure"
+  }
+]

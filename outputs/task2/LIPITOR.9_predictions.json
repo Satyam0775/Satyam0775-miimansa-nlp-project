@@ -1,0 +1,128 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "0 6",
+    "text": "cramps"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "19 23",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "206 209",
+    "text": "140"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "225 227",
+    "text": "74"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "244 247",
+    "text": "139"
+  },
+  {
+    "id": "T6",
+    "label": "Symptom",
+    "span": "266 270",
+    "text": "3.67"
+  },
+  {
+    "id": "T7",
+    "label": "Symptom",
+    "span": "345 348",
+    "text": "218"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "355 357",
+    "text": "34"
+  },
+  {
+    "id": "T9",
+    "label": "Symptom",
+    "span": "360 361",
+    "text": "l"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "364 367",
+    "text": "184"
+  },
+  {
+    "id": "T11",
+    "label": "Symptom",
+    "span": "384 387",
+    "text": "167"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "406 409",
+    "text": "6.4"
+  },
+  {
+    "id": "T13",
+    "label": "Symptom",
+    "span": "429 434",
+    "text": "10 mg"
+  },
+  {
+    "id": "T14",
+    "label": "Symptom",
+    "span": "468 471",
+    "text": "136"
+  },
+  {
+    "id": "T15",
+    "label": "Symptom",
+    "span": "478 480",
+    "text": "38"
+  },
+  {
+    "id": "T16",
+    "label": "Symptom",
+    "span": "487 489",
+    "text": "70"
+  },
+  {
+    "id": "T17",
+    "label": "Symptom",
+    "span": "506 509",
+    "text": "138"
+  },
+  {
+    "id": "T18",
+    "label": "Symptom",
+    "span": "528 532",
+    "text": "3.58"
+  },
+  {
+    "id": "T19",
+    "label": "Symptom",
+    "span": "540 543",
+    "text": "1/2"
+  },
+  {
+    "id": "T20",
+    "label": "Symptom",
+    "span": "549 554",
+    "text": "20 mg"
+  },
+  {
+    "id": "T21",
+    "label": "ADR",
+    "span": "555 562",
+    "text": "generic"
+  }
+]

@@ -1,0 +1,7 @@
+T1	ADR 0 4	pain
+T2	ADR 36 44	lift arm
+T3	Symptom 74 81	2 weeks
+T4	ADR 93 98	sleep
+T5	ADR 110 114	pain
+T6	Symptom 196 211	down 100 points
+T7	ADR 255 259	pain

@@ -1,0 +1,12 @@
+T1	Symptom 0 25	over the past three years
+T2	ADR 39 56	definately worked
+T3	ADR 87 107	dibilitating problem
+T4	ADR 135 171	unable to move them in any direction
+T5	Symptom 180 186	normal
+T6	ADR 225 232	turning
+T7	ADR 272 276	pain
+T8	Disease 328 331	lip
+T9	Symptom 388 390	no
+T10	Symptom 645 651	annual
+T11	Symptom 665 666	/
+T12	Drug 718 725	lipitor

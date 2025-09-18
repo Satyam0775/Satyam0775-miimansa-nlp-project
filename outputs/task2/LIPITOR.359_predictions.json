@@ -1,0 +1,68 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "60 61",
+    "text": "b"
+  },
+  {
+    "id": "T2",
+    "label": "Symptom",
+    "span": "86 94",
+    "text": "increase"
+  },
+  {
+    "id": "T3",
+    "label": "Drug",
+    "span": "164 168",
+    "text": "itor"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "209 221",
+    "text": "three months"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "380 381",
+    "text": "b"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "383 388",
+    "text": "ating"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "409 418",
+    "text": "gas build"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "575 581",
+    "text": "drowsy"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "718 722",
+    "text": "pain"
+  },
+  {
+    "id": "T10",
+    "label": "Disease",
+    "span": "972 979",
+    "text": "tendoni"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "1436 1441",
+    "text": "upset"
+  }
+]

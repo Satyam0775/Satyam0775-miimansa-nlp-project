@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "17 23",
+    "text": "forget"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "128 142",
+    "text": "unable to walk"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "159 174",
+    "text": "unable to sleep"
+  },
+  {
+    "id": "T4",
+    "label": "Disease",
+    "span": "176 182",
+    "text": "kidney"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "224 255",
+    "text": "high stress detail oriented job"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "285 298",
+    "text": "to think fast"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "368 374",
+    "text": "crying"
+  },
+  {
+    "id": "T8",
+    "label": "ADR",
+    "span": "444 448",
+    "text": "lost"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "553 561",
+    "text": "symptoms"
+  },
+  {
+    "id": "T10",
+    "label": "ADR",
+    "span": "729 733",
+    "text": "pain"
+  },
+  {
+    "id": "T11",
+    "label": "ADR",
+    "span": "792 800",
+    "text": "problems"
+  },
+  {
+    "id": "T12",
+    "label": "ADR",
+    "span": "806 813",
+    "text": "fatigue"
+  }
+]

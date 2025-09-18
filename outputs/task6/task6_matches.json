@@ -1,0 +1,2572 @@
+[
+  {
+    "file": "LIPITOR.667",
+    "original_text": "Muscle pain in left elbow",
+    "fuzzy_match_text": "Pain in elbow",
+    "fuzzy_match_code": "74323005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain in elbow",
+    "embedding_match_code": "74323005",
+    "embedding_score": 0.826801598072052
+  },
+  {
+    "file": "LIPITOR.667",
+    "original_text": "pain in feet",
+    "fuzzy_match_text": "Pain in elbow",
+    "fuzzy_match_code": "74323005",
+    "fuzzy_score": 74,
+    "embedding_match_text": "Foot pain",
+    "embedding_match_code": "47933007",
+    "embedding_score": 0.9199977517127991
+  },
+  {
+    "file": "ARTHROTEC.57",
+    "original_text": "spotting",
+    "fuzzy_match_text": "Menstrual spotting",
+    "fuzzy_match_code": "9126005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Menstrual spotting",
+    "embedding_match_code": "9126005",
+    "embedding_score": 0.7401264905929565
+  },
+  {
+    "file": "ARTHROTEC.57",
+    "original_text": "spotting problems",
+    "fuzzy_match_text": "Menstrual spotting",
+    "fuzzy_match_code": "9126005",
+    "fuzzy_score": 64,
+    "embedding_match_text": "Menstrual spotting",
+    "embedding_match_code": "9126005",
+    "embedding_score": 0.7583821415901184
+  },
+  {
+    "file": "LIPITOR.512",
+    "original_text": "neck pain",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Neck pain",
+    "embedding_match_code": "81680005",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.512",
+    "original_text": "memory loss",
+    "fuzzy_match_text": "Mentally dull",
+    "fuzzy_match_code": "419723007",
+    "fuzzy_score": 42,
+    "embedding_match_text": "Amnesia",
+    "embedding_match_code": "48167000",
+    "embedding_score": 0.5504356026649475
+  },
+  {
+    "file": "LIPITOR.512",
+    "original_text": "Brain feel kind of foggy",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 18,
+    "embedding_match_text": "Mentally dull",
+    "embedding_match_code": "419723007",
+    "embedding_score": 0.46136677265167236
+  },
+  {
+    "file": "LIPITOR.9",
+    "original_text": "Cramps in my feet",
+    "fuzzy_match_text": "Cramp in foot",
+    "fuzzy_match_code": "102551008",
+    "fuzzy_score": 73,
+    "embedding_match_text": "Cramp in foot",
+    "embedding_match_code": "102551008",
+    "embedding_score": 0.8134490251541138
+  },
+  {
+    "file": "LIPITOR.9",
+    "original_text": "pain in the lower part of my knees",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.4376584589481354
+  },
+  {
+    "file": "LIPITOR.9",
+    "original_text": "fatigue",
+    "fuzzy_match_text": "Fatigue",
+    "fuzzy_match_code": "84229001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Fatigue",
+    "embedding_match_code": "84229001",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.9",
+    "original_text": "mental fog",
+    "fuzzy_match_text": "Mentally dull",
+    "fuzzy_match_code": "419723007",
+    "fuzzy_score": 61,
+    "embedding_match_text": "Mentally dull",
+    "embedding_match_code": "419723007",
+    "embedding_score": 0.5833961367607117
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "very intense muscle pain with burning from the middle of my back and around my ribs to the center of my chest",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 20,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.4439108371734619
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "intense muscle pain with intense burning in my neck",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 29,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.4481220245361328
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "intense muscle pain with intense burning in my legs",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 29,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.47100183367729187
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "intense muscle pain with intense burning in my arms",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 29,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.4567343592643738
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "muscle pains",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 43,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.5499201416969299
+  },
+  {
+    "file": "LIPITOR.562",
+    "original_text": "muscle pains",
+    "fuzzy_match_text": "Myalgia/myositis - multiple",
+    "fuzzy_match_code": "288225004",
+    "fuzzy_score": 43,
+    "embedding_match_text": "Myalgia/myositis - multiple",
+    "embedding_match_code": "288225004",
+    "embedding_score": 0.5499201416969299
+  },
+  {
+    "file": "LIPITOR.311",
+    "original_text": "Severe achilles tendonitis",
+    "fuzzy_match_text": "Achilles tendonitis",
+    "fuzzy_match_code": "11654001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Achilles tendonitis",
+    "embedding_match_code": "11654001",
+    "embedding_score": 0.9420318603515625
+  },
+  {
+    "file": "LIPITOR.311",
+    "original_text": "heel pain",
+    "fuzzy_match_text": "Heel pain",
+    "fuzzy_match_code": "2733002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Heel pain",
+    "embedding_match_code": "2733002",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.311",
+    "original_text": "burning sensations in calves",
+    "fuzzy_match_text": "Burning sensation",
+    "fuzzy_match_code": "90673000",
+    "fuzzy_score": 76,
+    "embedding_match_text": "Burning sensation",
+    "embedding_match_code": "90673000",
+    "embedding_score": 0.6869813799858093
+  },
+  {
+    "file": "LIPITOR.555",
+    "original_text": "Lower back pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 93,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.9274997115135193
+  },
+  {
+    "file": "LIPITOR.555",
+    "original_text": "stiffness in joints",
+    "fuzzy_match_text": "Joint stiffness",
+    "fuzzy_match_code": "84445001",
+    "fuzzy_score": 88,
+    "embedding_match_text": "Joint stiffness",
+    "embedding_match_code": "84445001",
+    "embedding_score": 0.9546944499015808
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "Possible Early Parkinson's symptoms",
+    "fuzzy_match_text": "Parkinsonism",
+    "fuzzy_match_code": "32798002",
+    "fuzzy_score": 47,
+    "embedding_match_text": "Parkinsonism",
+    "embedding_match_code": "32798002",
+    "embedding_score": 0.6132895946502686
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "joint pains",
+    "fuzzy_match_text": "Parkinsonism",
+    "fuzzy_match_code": "32798002",
+    "fuzzy_score": 43,
+    "embedding_match_text": "Arthralgia",
+    "embedding_match_code": "57676002",
+    "embedding_score": 0.37417033314704895
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "light headedness(problem keeping balance)",
+    "fuzzy_match_text": "Lightheadedness",
+    "fuzzy_match_code": "386705008",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Lightheadedness",
+    "embedding_match_code": "386705008",
+    "embedding_score": 0.601280927658081
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "Tremors in Right hand",
+    "fuzzy_match_text": "Tremor",
+    "fuzzy_match_code": "26079004",
+    "fuzzy_score": 44,
+    "embedding_match_text": "Tremor",
+    "embedding_match_code": "26079004",
+    "embedding_score": 0.7682961821556091
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "hand writting had deteriorated",
+    "fuzzy_match_text": "Difficulty writing",
+    "fuzzy_match_code": "102938007",
+    "fuzzy_score": 42,
+    "embedding_match_text": "Difficulty writing",
+    "embedding_match_code": "102938007",
+    "embedding_score": 0.5721821188926697
+  },
+  {
+    "file": "LIPITOR.658",
+    "original_text": "Parkinson's symptoms",
+    "fuzzy_match_text": "Parkinsonism",
+    "fuzzy_match_code": "32798002",
+    "fuzzy_score": 69,
+    "embedding_match_text": "Parkinsonism",
+    "embedding_match_code": "32798002",
+    "embedding_score": 0.6884170770645142
+  },
+  {
+    "file": "ARTHROTEC.70",
+    "original_text": "severe acid reflux",
+    "fuzzy_match_text": "Acid reflux",
+    "fuzzy_match_code": "698065002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Acid reflux",
+    "embedding_match_code": "698065002",
+    "embedding_score": 0.9139844179153442
+  },
+  {
+    "file": "ARTHROTEC.70",
+    "original_text": "headache",
+    "fuzzy_match_text": "Headache",
+    "fuzzy_match_code": "25064002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Headache",
+    "embedding_match_code": "25064002",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.364",
+    "original_text": "muscle weakness",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Muscle weakness",
+    "embedding_match_code": "26544005",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.364",
+    "original_text": "extreme fatigue",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 33,
+    "embedding_match_text": "Muscle weakness",
+    "embedding_match_code": "26544005",
+    "embedding_score": 0.557613730430603
+  },
+  {
+    "file": "LIPITOR.364",
+    "original_text": "can't sleep",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 31,
+    "embedding_match_text": "Insomnia",
+    "embedding_match_code": "193462001",
+    "embedding_score": 0.6011010408401489
+  },
+  {
+    "file": "LIPITOR.364",
+    "original_text": "muscle aches and pain",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Muscle weakness",
+    "embedding_match_code": "26544005",
+    "embedding_score": 0.5947555303573608
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "slurring in speech",
+    "fuzzy_match_text": "Slurred speech",
+    "fuzzy_match_code": "289195008",
+    "fuzzy_score": 75,
+    "embedding_match_text": "Slurred speech",
+    "embedding_match_code": "289195008",
+    "embedding_score": 0.9395248293876648
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "lower back pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.9274994134902954
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "bloated",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 43,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.6409767866134644
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "constipated",
+    "fuzzy_match_text": "Constipation",
+    "fuzzy_match_code": "14760008",
+    "fuzzy_score": 78,
+    "embedding_match_text": "Constipation",
+    "embedding_match_code": "14760008",
+    "embedding_score": 0.8662403225898743
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "severe hip pain",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 0.9154301285743713
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "Memory loss",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 37,
+    "embedding_match_text": "Amnesia",
+    "embedding_match_code": "48167000",
+    "embedding_score": 0.5504356026649475
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "fatigue",
+    "fuzzy_match_text": "Fatigue",
+    "fuzzy_match_code": "84229001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Fatigue",
+    "embedding_match_code": "84229001",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "muscle weakness",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Muscle weakness",
+    "embedding_match_code": "26544005",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "depression",
+    "fuzzy_match_text": "Depression",
+    "fuzzy_match_code": "35489007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Depression",
+    "embedding_match_code": "35489007",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "sleepless nites",
+    "fuzzy_match_text": "Muscle weakness",
+    "fuzzy_match_code": "26544005",
+    "fuzzy_score": 47,
+    "embedding_match_text": "Insomnia",
+    "embedding_match_code": "193462001",
+    "embedding_score": 0.48772135376930237
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "Sight loss",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 38,
+    "embedding_match_text": "Visual impairment",
+    "embedding_match_code": "397540003",
+    "embedding_score": 0.6267037987709045
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "very off balance",
+    "fuzzy_match_text": "Impairment of balance",
+    "fuzzy_match_code": "387603000",
+    "fuzzy_score": 61,
+    "embedding_match_text": "Impairment of balance",
+    "embedding_match_code": "387603000",
+    "embedding_score": 0.5887015461921692
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "hip pain",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "lower back pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.9274994134902954
+  },
+  {
+    "file": "LIPITOR.536",
+    "original_text": "impossible to move",
+    "fuzzy_match_text": "Unable to move",
+    "fuzzy_match_code": "225601007",
+    "fuzzy_score": 69,
+    "embedding_match_text": "Unable to move",
+    "embedding_match_code": "225601007",
+    "embedding_score": 0.8714371919631958
+  },
+  {
+    "file": "LIPITOR.699",
+    "original_text": "mild flatulance",
+    "fuzzy_match_text": "Flatulence/wind",
+    "fuzzy_match_code": "267052005",
+    "fuzzy_score": 80,
+    "embedding_match_text": "Flatulence/wind",
+    "embedding_match_code": "267052005",
+    "embedding_score": 0.5175423622131348
+  },
+  {
+    "file": "LIPITOR.699",
+    "original_text": "low back pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.699",
+    "original_text": "back pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.8529183864593506
+  },
+  {
+    "file": "LIPITOR.699",
+    "original_text": "neck pain",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Neck pain",
+    "embedding_match_code": "81680005",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.699",
+    "original_text": "pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "Headaches",
+    "fuzzy_match_text": "Headache",
+    "fuzzy_match_code": "25064002",
+    "fuzzy_score": 94,
+    "embedding_match_text": "Headache",
+    "embedding_match_code": "25064002",
+    "embedding_score": 0.8963804841041565
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "body aches",
+    "fuzzy_match_text": "Generalised aches and pains",
+    "fuzzy_match_code": "82991003",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Generalised aches and pains",
+    "embedding_match_code": "82991003",
+    "embedding_score": 0.705199122428894
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "joint stiffness",
+    "fuzzy_match_text": "Joint stiffness",
+    "fuzzy_match_code": "84445001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Joint stiffness",
+    "embedding_match_code": "84445001",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "bloating",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7783891558647156
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "excessive gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.7332717180252075
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "cramping",
+    "fuzzy_match_text": "Muscle cramp",
+    "fuzzy_match_code": "55300003",
+    "fuzzy_score": 50,
+    "embedding_match_text": "Muscle cramp",
+    "embedding_match_code": "55300003",
+    "embedding_score": 0.8147071003913879
+  },
+  {
+    "file": "LIPITOR.792",
+    "original_text": "irritability",
+    "fuzzy_match_text": "Feeling irritable",
+    "fuzzy_match_code": "55929007",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Feeling irritable",
+    "embedding_match_code": "55929007",
+    "embedding_score": 0.8749237060546875
+  },
+  {
+    "file": "LIPITOR.144",
+    "original_text": "muscle spasms",
+    "fuzzy_match_text": "Muscle cramp",
+    "fuzzy_match_code": "55300003",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Muscle cramp",
+    "embedding_match_code": "55300003",
+    "embedding_score": 0.7022744417190552
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "extreme forgetfulness",
+    "fuzzy_match_text": "Forgetful",
+    "fuzzy_match_code": "55533009",
+    "fuzzy_score": 60,
+    "embedding_match_text": "Forgetful",
+    "embedding_match_code": "55533009",
+    "embedding_score": 0.6935449242591858
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "extreme muscle pain",
+    "fuzzy_match_text": "Renal pain",
+    "fuzzy_match_code": "274279008",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.6868858933448792
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "insomnia",
+    "fuzzy_match_text": "Insomnia",
+    "fuzzy_match_code": "193462001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Insomnia",
+    "embedding_match_code": "193462001",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "tremors",
+    "fuzzy_match_text": "Tremor",
+    "fuzzy_match_code": "26079004",
+    "fuzzy_score": 92,
+    "embedding_match_text": "Tremor",
+    "embedding_match_code": "26079004",
+    "embedding_score": 0.9452561736106873
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "cluster headaches",
+    "fuzzy_match_text": "Cluster headache",
+    "fuzzy_match_code": "193031009",
+    "fuzzy_score": 97,
+    "embedding_match_text": "Cluster headache",
+    "embedding_match_code": "193031009",
+    "embedding_score": 0.9796905517578125
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "kidney pain",
+    "fuzzy_match_text": "Kidney disease",
+    "fuzzy_match_code": "90708001",
+    "fuzzy_score": 71,
+    "embedding_match_text": "Renal pain",
+    "embedding_match_code": "274279008",
+    "embedding_score": 0.9565397500991821
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "urinary problems",
+    "fuzzy_match_text": "Unable to walk",
+    "fuzzy_match_code": "282145008",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Renal pain",
+    "embedding_match_code": "274279008",
+    "embedding_score": 0.5028409361839294
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "unable to walk",
+    "fuzzy_match_text": "Unable to walk",
+    "fuzzy_match_code": "282145008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Unable to walk",
+    "embedding_match_code": "282145008",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "unable to sleep",
+    "fuzzy_match_text": "Unable to walk",
+    "fuzzy_match_code": "282145008",
+    "fuzzy_score": 78,
+    "embedding_match_text": "Cannot sleep at all",
+    "embedding_match_code": "248255005",
+    "embedding_score": 0.9144306778907776
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "kidney problems",
+    "fuzzy_match_text": "Kidney disease",
+    "fuzzy_match_code": "90708001",
+    "fuzzy_score": 62,
+    "embedding_match_text": "Kidney disease",
+    "embedding_match_code": "90708001",
+    "embedding_score": 0.8078294396400452
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "urine like root beer",
+    "fuzzy_match_text": "Unable to think clearly",
+    "fuzzy_match_code": "247640008",
+    "fuzzy_score": 51,
+    "embedding_match_text": "Urine: dark/concentrated",
+    "embedding_match_code": "167232003",
+    "embedding_score": 0.6003934144973755
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "inability to think fast enough",
+    "fuzzy_match_text": "Unable to think clearly",
+    "fuzzy_match_code": "247640008",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Unable to think clearly",
+    "embedding_match_code": "247640008",
+    "embedding_score": 0.582055926322937
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "Couldn't find words",
+    "fuzzy_match_text": "Unable to find words",
+    "fuzzy_match_code": "286381004",
+    "fuzzy_score": 72,
+    "embedding_match_text": "Unable to find words",
+    "embedding_match_code": "286381004",
+    "embedding_score": 0.8531269431114197
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "got lost on way",
+    "fuzzy_match_text": "Unable to walk",
+    "fuzzy_match_code": "282145008",
+    "fuzzy_score": 41,
+    "embedding_match_text": "Unable to walk",
+    "embedding_match_code": "282145008",
+    "embedding_score": 0.26202869415283203
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "muscle pain",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 64,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.6226533055305481
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "fatigue",
+    "fuzzy_match_text": "Fatigue",
+    "fuzzy_match_code": "84229001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Fatigue",
+    "embedding_match_code": "84229001",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.97",
+    "original_text": "fatigue",
+    "fuzzy_match_text": "Fatigue",
+    "fuzzy_match_code": "84229001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Fatigue",
+    "embedding_match_code": "84229001",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "tingling in my feet",
+    "fuzzy_match_text": "Pain in lower limb",
+    "fuzzy_match_code": "10601006",
+    "fuzzy_score": 38,
+    "embedding_match_text": "Numbness of foot",
+    "embedding_match_code": "309538000",
+    "embedding_score": 0.6647387146949768
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "tingling in my shins",
+    "fuzzy_match_text": "Pain in toe",
+    "fuzzy_match_code": "285365001",
+    "fuzzy_score": 45,
+    "embedding_match_text": "Numbness of foot",
+    "embedding_match_code": "309538000",
+    "embedding_score": 0.4379822611808777
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "numbness in my feet",
+    "fuzzy_match_text": "Numbness of foot",
+    "fuzzy_match_code": "309538000",
+    "fuzzy_score": 69,
+    "embedding_match_text": "Numbness of foot",
+    "embedding_match_code": "309538000",
+    "embedding_score": 0.9041513800621033
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "numbness in my shins",
+    "fuzzy_match_text": "Numbness of foot",
+    "fuzzy_match_code": "309538000",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Numbness of foot",
+    "embedding_match_code": "309538000",
+    "embedding_score": 0.664730429649353
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "my toes ached",
+    "fuzzy_match_text": "Pain in toe",
+    "fuzzy_match_code": "285365001",
+    "fuzzy_score": 42,
+    "embedding_match_text": "Pain in toe",
+    "embedding_match_code": "285365001",
+    "embedding_score": 0.6698441505432129
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "my feet hurt",
+    "fuzzy_match_text": "Numbness of foot",
+    "fuzzy_match_code": "309538000",
+    "fuzzy_score": 36,
+    "embedding_match_text": "Foot pain",
+    "embedding_match_code": "47933007",
+    "embedding_score": 0.7793256044387817
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "can't even sleep at night",
+    "fuzzy_match_text": "Pins and needles",
+    "fuzzy_match_code": "62507009",
+    "fuzzy_score": 34,
+    "embedding_match_text": "Insomnia",
+    "embedding_match_code": "193462001",
+    "embedding_score": 0.5190403461456299
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "sensations of tingling in my legs",
+    "fuzzy_match_text": "Pain in lower limb",
+    "fuzzy_match_code": "10601006",
+    "fuzzy_score": 35,
+    "embedding_match_text": "Numbness of lower limb",
+    "embedding_match_code": "309537005",
+    "embedding_score": 0.616216778755188
+  },
+  {
+    "file": "LIPITOR.994",
+    "original_text": "sensations of tingling in my feet",
+    "fuzzy_match_text": "Numbness of foot",
+    "fuzzy_match_code": "309538000",
+    "fuzzy_score": 41,
+    "embedding_match_text": "Numbness of foot",
+    "embedding_match_code": "309538000",
+    "embedding_score": 0.6995778679847717
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "extreme bloating",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 69,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7954312562942505
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "increase my heart rate",
+    "fuzzy_match_text": "Bloating symptom",
+    "fuzzy_match_code": "248490000",
+    "fuzzy_score": 37,
+    "embedding_match_text": "Tachycardia",
+    "embedding_match_code": "3424008",
+    "embedding_score": 0.44075441360473633
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "could not sleep well",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 51,
+    "embedding_match_text": "Difficulty sleeping",
+    "embedding_match_code": "301345002",
+    "embedding_score": 0.7420070171356201
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "bloating",
+    "fuzzy_match_text": "Abdominal bloating",
+    "fuzzy_match_code": "116289008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7783891558647156
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.45498552918434143
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "bloating",
+    "fuzzy_match_text": "Abdominal bloating",
+    "fuzzy_match_code": "116289008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7783891558647156
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "drowsy",
+    "fuzzy_match_text": "Drowsy",
+    "fuzzy_match_code": "271782001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Drowsy",
+    "embedding_match_code": "271782001",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "sleep is not very sound",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 43,
+    "embedding_match_text": "Difficulty sleeping",
+    "embedding_match_code": "301345002",
+    "embedding_score": 0.6483901739120483
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "pain neck",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Neck pain",
+    "embedding_match_code": "81680005",
+    "embedding_score": 0.8889795541763306
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "bloating",
+    "fuzzy_match_text": "Abdominal bloating",
+    "fuzzy_match_code": "116289008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7783891558647156
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.45498552918434143
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "pain",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "bloating",
+    "fuzzy_match_text": "Abdominal bloating",
+    "fuzzy_match_code": "116289008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bloating symptom",
+    "embedding_match_code": "248490000",
+    "embedding_score": 0.7783891558647156
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.45498552918434143
+  },
+  {
+    "file": "LIPITOR.359",
+    "original_text": "stomach upsets",
+    "fuzzy_match_text": "Upset stomach",
+    "fuzzy_match_code": "162059005",
+    "fuzzy_score": 96,
+    "embedding_match_text": "Upset stomach",
+    "embedding_match_code": "162059005",
+    "embedding_score": 0.9424048066139221
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "pain in hips",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 80,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 0.8791565299034119
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "cannot walk even a short distance due to pain",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Unable to walk",
+    "embedding_match_code": "282145008",
+    "embedding_score": 0.7448077201843262
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Legs felt like they had run a marathon",
+    "fuzzy_match_text": "Muscle fatigue",
+    "fuzzy_match_code": "80449002",
+    "fuzzy_score": 31,
+    "embedding_match_text": "Exhaustion",
+    "embedding_match_code": "60119000",
+    "embedding_score": 0.3890145719051361
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Deep bruising",
+    "fuzzy_match_text": "Deep bruising",
+    "fuzzy_match_code": "262558009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Deep bruising",
+    "embedding_match_code": "262558009",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Joint pain in hips",
+    "fuzzy_match_text": "Elbow joint pain",
+    "fuzzy_match_code": "202480001",
+    "fuzzy_score": 77,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 0.7991461157798767
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Joint pain in elbows",
+    "fuzzy_match_text": "Elbow joint pain",
+    "fuzzy_match_code": "202480001",
+    "fuzzy_score": 89,
+    "embedding_match_text": "Elbow joint pain",
+    "embedding_match_code": "202480001",
+    "embedding_score": 0.8997454643249512
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Joint pain in spine",
+    "fuzzy_match_text": "Pain in spine",
+    "fuzzy_match_code": "48926009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain in spine",
+    "embedding_match_code": "48926009",
+    "embedding_score": 0.8510705828666687
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "Exhaustion",
+    "fuzzy_match_text": "Exhaustion",
+    "fuzzy_match_code": "60119000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Exhaustion",
+    "embedding_match_code": "60119000",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "hip pain",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "felt like an old woman",
+    "fuzzy_match_text": "Walking disability",
+    "fuzzy_match_code": "228158008",
+    "fuzzy_score": 35,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.250910222530365
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "severe hip pain",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 0.9154301285743713
+  },
+  {
+    "file": "LIPITOR.856",
+    "original_text": "cannot walk more than 5 yards",
+    "fuzzy_match_text": "Unable to walk",
+    "fuzzy_match_code": "282145008",
+    "fuzzy_score": 44,
+    "embedding_match_text": "Unable to walk",
+    "embedding_match_code": "282145008",
+    "embedding_score": 0.6538361310958862
+  },
+  {
+    "file": "VOLTAREN.22",
+    "original_text": "stomach cramps",
+    "fuzzy_match_text": "Stomach cramps",
+    "fuzzy_match_code": "51197009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Stomach cramps",
+    "embedding_match_code": "51197009",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "VOLTAREN.22",
+    "original_text": "diarrhea",
+    "fuzzy_match_text": "Diarrhoea",
+    "fuzzy_match_code": "62315008",
+    "fuzzy_score": 94,
+    "embedding_match_text": "Diarrhoea",
+    "embedding_match_code": "62315008",
+    "embedding_score": 0.8394458889961243
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "pain with stomach cramps",
+    "fuzzy_match_text": "Stomach cramps",
+    "fuzzy_match_code": "51197009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Stomach cramps",
+    "embedding_match_code": "51197009",
+    "embedding_score": 0.9198099374771118
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "diarrhoa",
+    "fuzzy_match_text": "Diarrhoea",
+    "fuzzy_match_code": "62315008",
+    "fuzzy_score": 94,
+    "embedding_match_text": "Diarrhoea",
+    "embedding_match_code": "62315008",
+    "embedding_score": 0.9048928022384644
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "heavy menstral bleeding with clots even though i had just finished my cycle a week before",
+    "fuzzy_match_text": "Bleeding",
+    "fuzzy_match_code": "131148009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bleeding",
+    "embedding_match_code": "131148009",
+    "embedding_score": 0.47273463010787964
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "couldnt pass urine",
+    "fuzzy_match_text": "Urinary retention",
+    "fuzzy_match_code": "267064002",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Urinary retention",
+    "embedding_match_code": "267064002",
+    "embedding_score": 0.4517671465873718
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "urine full of blood",
+    "fuzzy_match_text": "Bleeding",
+    "fuzzy_match_code": "131148009",
+    "fuzzy_score": 37,
+    "embedding_match_text": "Urinary retention",
+    "embedding_match_code": "267064002",
+    "embedding_score": 0.5013232827186584
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "felt very weak",
+    "fuzzy_match_text": "Haematuria",
+    "fuzzy_match_code": "34436003",
+    "fuzzy_score": 33,
+    "embedding_match_text": "Tremor",
+    "embedding_match_code": "26079004",
+    "embedding_score": 0.28399085998535156
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "could not stop shaking",
+    "fuzzy_match_text": "Stomach cramps",
+    "fuzzy_match_code": "51197009",
+    "fuzzy_score": 33,
+    "embedding_match_text": "Tremor",
+    "embedding_match_code": "26079004",
+    "embedding_score": 0.5423842668533325
+  },
+  {
+    "file": "ARTHROTEC.122",
+    "original_text": "bleeding",
+    "fuzzy_match_text": "Bleeding",
+    "fuzzy_match_code": "131148009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Bleeding",
+    "embedding_match_code": "131148009",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.515",
+    "original_text": "tire very quickly muscles",
+    "fuzzy_match_text": "Muscle cramp",
+    "fuzzy_match_code": "55300003",
+    "fuzzy_score": 32,
+    "embedding_match_text": "Muscle fatigue",
+    "embedding_match_code": "80449002",
+    "embedding_score": 0.4626055955886841
+  },
+  {
+    "file": "LIPITOR.515",
+    "original_text": "leg/foot cramps",
+    "fuzzy_match_text": "Muscle cramp",
+    "fuzzy_match_code": "55300003",
+    "fuzzy_score": 59,
+    "embedding_match_text": "Muscle cramp",
+    "embedding_match_code": "55300003",
+    "embedding_score": 0.7374971508979797
+  },
+  {
+    "file": "LIPITOR.515",
+    "original_text": "muscle tiring",
+    "fuzzy_match_text": "Muscle fatigue",
+    "fuzzy_match_code": "80449002",
+    "fuzzy_score": 74,
+    "embedding_match_text": "Muscle fatigue",
+    "embedding_match_code": "80449002",
+    "embedding_score": 0.6114826798439026
+  },
+  {
+    "file": "LIPITOR.515",
+    "original_text": "muscle fatigue",
+    "fuzzy_match_text": "Muscle fatigue",
+    "fuzzy_match_code": "80449002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Muscle fatigue",
+    "embedding_match_code": "80449002",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.515",
+    "original_text": "cramping",
+    "fuzzy_match_text": "Cramp in lower limb",
+    "fuzzy_match_code": "449917004",
+    "fuzzy_score": 52,
+    "embedding_match_text": "Muscle cramp",
+    "embedding_match_code": "55300003",
+    "embedding_score": 0.8147069215774536
+  },
+  {
+    "file": "SOLARAZE.2",
+    "original_text": "hard to breathe",
+    "fuzzy_match_text": "Difficulty breathing",
+    "fuzzy_match_code": "230145002",
+    "fuzzy_score": 51,
+    "embedding_match_text": "Difficulty breathing",
+    "embedding_match_code": "230145002",
+    "embedding_score": 0.7448991537094116
+  },
+  {
+    "file": "SOLARAZE.2",
+    "original_text": "lungs feel heavy",
+    "fuzzy_match_text": "Feeling unhappy",
+    "fuzzy_match_code": "420038007",
+    "fuzzy_score": 45,
+    "embedding_match_text": "Difficulty breathing",
+    "embedding_match_code": "230145002",
+    "embedding_score": 0.560636579990387
+  },
+  {
+    "file": "SOLARAZE.2",
+    "original_text": "sadness",
+    "fuzzy_match_text": "Tiredness symptom",
+    "fuzzy_match_code": "267031002",
+    "fuzzy_score": 50,
+    "embedding_match_text": "Feeling unhappy",
+    "embedding_match_code": "420038007",
+    "embedding_score": 0.53790682554245
+  },
+  {
+    "file": "SOLARAZE.2",
+    "original_text": "tiredness",
+    "fuzzy_match_text": "Tiredness symptom",
+    "fuzzy_match_code": "267031002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Tiredness symptom",
+    "embedding_match_code": "267031002",
+    "embedding_score": 0.8300619721412659
+  },
+  {
+    "file": "SOLARAZE.2",
+    "original_text": "wanting to quit everything and give up",
+    "fuzzy_match_text": "Difficulty breathing",
+    "fuzzy_match_code": "230145002",
+    "fuzzy_score": 34,
+    "embedding_match_text": "Feeling unhappy",
+    "embedding_match_code": "420038007",
+    "embedding_score": 0.3818352520465851
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "Disorentatation",
+    "fuzzy_match_text": "Disorientated",
+    "fuzzy_match_code": "62476001",
+    "fuzzy_score": 71,
+    "embedding_match_text": "Disorientated",
+    "embedding_match_code": "62476001",
+    "embedding_score": 0.6558163166046143
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "trouble brathing",
+    "fuzzy_match_text": "Arthrotec",
+    "fuzzy_match_code": "3384011000036100",
+    "fuzzy_score": 48,
+    "embedding_match_text": "Disorientated",
+    "embedding_match_code": "62476001",
+    "embedding_score": 0.29585644602775574
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "extreme hot",
+    "fuzzy_match_text": "Arthrotec",
+    "fuzzy_match_code": "3384011000036100",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Itching",
+    "embedding_match_code": "418290006",
+    "embedding_score": 0.24651139974594116
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "redness and swelling",
+    "fuzzy_match_text": "Knee pain",
+    "fuzzy_match_code": "30989003",
+    "fuzzy_score": 34,
+    "embedding_match_text": "Knee pain",
+    "embedding_match_code": "30989003",
+    "embedding_score": 0.3929128050804138
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "itching",
+    "fuzzy_match_text": "Itching",
+    "fuzzy_match_code": "418290006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Itching",
+    "embedding_match_code": "418290006",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "ARTHROTEC.58",
+    "original_text": "abominal cramps",
+    "fuzzy_match_text": "Abdominal colic",
+    "fuzzy_match_code": "9991008",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Knee pain",
+    "embedding_match_code": "30989003",
+    "embedding_score": 0.35507988929748535
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "Torn ham string",
+    "fuzzy_match_text": "Pain in lower limb",
+    "fuzzy_match_code": "10601006",
+    "fuzzy_score": 36,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.2518191933631897
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "pain in both legs",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain in lower limb",
+    "embedding_match_code": "10601006",
+    "embedding_score": 0.7184565663337708
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "could hardly stand it",
+    "fuzzy_match_text": "Pain in lower limb",
+    "fuzzy_match_code": "10601006",
+    "fuzzy_score": 26,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.23259781301021576
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "could hardly walk",
+    "fuzzy_match_text": "Walking disability",
+    "fuzzy_match_code": "228158008",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Walking disability",
+    "embedding_match_code": "228158008",
+    "embedding_score": 0.4947625994682312
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "pain",
+    "fuzzy_match_text": "Pain in lower limb",
+    "fuzzy_match_code": "10601006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.99",
+    "original_text": "muscle pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.6681904196739197
+  },
+  {
+    "file": "LIPITOR.743",
+    "original_text": "Exhaustion after exercise",
+    "fuzzy_match_text": "Impaired exercise tolerance",
+    "fuzzy_match_code": "267044007",
+    "fuzzy_score": 54,
+    "embedding_match_text": "Impaired exercise tolerance",
+    "embedding_match_code": "267044007",
+    "embedding_score": 0.5708999037742615
+  },
+  {
+    "file": "LIPITOR.743",
+    "original_text": "Heavy limbs",
+    "fuzzy_match_text": "Sensation of heaviness in limbs",
+    "fuzzy_match_code": "373931001",
+    "fuzzy_score": 62,
+    "embedding_match_text": "Sensation of heaviness in limbs",
+    "embedding_match_code": "373931001",
+    "embedding_score": 0.5336959362030029
+  },
+  {
+    "file": "LIPITOR.128",
+    "original_text": "stiff neck",
+    "fuzzy_match_text": "Stiff neck",
+    "fuzzy_match_code": "161882006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Stiff neck",
+    "embedding_match_code": "161882006",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.128",
+    "original_text": "sore left testicle",
+    "fuzzy_match_text": "Derealisation",
+    "fuzzy_match_code": "40806005",
+    "fuzzy_score": 39,
+    "embedding_match_text": "Stiff neck",
+    "embedding_match_code": "161882006",
+    "embedding_score": 0.1925748884677887
+  },
+  {
+    "file": "LIPITOR.128",
+    "original_text": "arm muscles melting",
+    "fuzzy_match_text": "Muscle atrophy",
+    "fuzzy_match_code": "88092000",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Muscle atrophy",
+    "embedding_match_code": "88092000",
+    "embedding_score": 0.4580853581428528
+  },
+  {
+    "file": "LIPITOR.128",
+    "original_text": "legs feel like they don't belong to me",
+    "fuzzy_match_text": "Orchidodynia",
+    "fuzzy_match_code": "63901009",
+    "fuzzy_score": 20,
+    "embedding_match_text": "Muscle atrophy",
+    "embedding_match_code": "88092000",
+    "embedding_score": 0.2792454957962036
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Leg cramps",
+    "fuzzy_match_text": "Cramp in lower limb",
+    "fuzzy_match_code": "449917004",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Cramp in lower limb",
+    "embedding_match_code": "449917004",
+    "embedding_score": 0.7357906103134155
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Peripheral Neuropathy",
+    "fuzzy_match_text": "Peripheral neuropathy",
+    "fuzzy_match_code": "302226006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Peripheral neuropathy",
+    "embedding_match_code": "302226006",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "lost most of my feeling in feet, legs and hands",
+    "fuzzy_match_text": "Paraesthesia of hand",
+    "fuzzy_match_code": "309086004",
+    "fuzzy_score": 36,
+    "embedding_match_text": "Foot pain",
+    "embedding_match_code": "47933007",
+    "embedding_score": 0.4883177876472473
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Tingeling in fingers",
+    "fuzzy_match_text": "Tinea pedis",
+    "fuzzy_match_code": "6020002",
+    "fuzzy_score": 45,
+    "embedding_match_text": "Paraesthesia of hand",
+    "embedding_match_code": "309086004",
+    "embedding_score": 0.4496985077857971
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "feet is painful",
+    "fuzzy_match_text": "Foot pain",
+    "fuzzy_match_code": "47933007",
+    "fuzzy_score": 58,
+    "embedding_match_text": "Foot pain",
+    "embedding_match_code": "47933007",
+    "embedding_score": 0.8557115793228149
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Difficult to keep balance",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 59,
+    "embedding_match_text": "Impairment of balance",
+    "embedding_match_code": "387603000",
+    "embedding_score": 0.7229516506195068
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Difficult to walk",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 61,
+    "embedding_match_text": "Walking disability",
+    "embedding_match_code": "228158008",
+    "embedding_score": 0.6790679097175598
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "Difficult to sleep",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 81,
+    "embedding_match_text": "Difficulty sleeping",
+    "embedding_match_code": "301345002",
+    "embedding_score": 0.8664151430130005
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "burning",
+    "fuzzy_match_text": "Burning sensation",
+    "fuzzy_match_code": "90673000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Burning sensation",
+    "embedding_match_code": "90673000",
+    "embedding_score": 0.7915545701980591
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "leg cramps",
+    "fuzzy_match_text": "Cramp in lower limb",
+    "fuzzy_match_code": "449917004",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Cramp in lower limb",
+    "embedding_match_code": "449917004",
+    "embedding_score": 0.7357906103134155
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "difficulty picking my feet up",
+    "fuzzy_match_text": "Difficulty sleeping",
+    "fuzzy_match_code": "301345002",
+    "fuzzy_score": 71,
+    "embedding_match_text": "Foot pain",
+    "embedding_match_code": "47933007",
+    "embedding_score": 0.46919387578964233
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "itching",
+    "fuzzy_match_text": "Itching",
+    "fuzzy_match_code": "418290006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Itching",
+    "embedding_match_code": "418290006",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.500",
+    "original_text": "tingling",
+    "fuzzy_match_text": "Itching",
+    "fuzzy_match_code": "418290006",
+    "fuzzy_score": 53,
+    "embedding_match_text": "Burning sensation",
+    "embedding_match_code": "90673000",
+    "embedding_score": 0.5638043284416199
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "charley horses",
+    "fuzzy_match_text": "Charleyhorse",
+    "fuzzy_match_code": "54981004",
+    "fuzzy_score": 92,
+    "embedding_match_text": "Charleyhorse",
+    "embedding_match_code": "54981004",
+    "embedding_score": 0.8758668303489685
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "back ache",
+    "fuzzy_match_text": "Backache",
+    "fuzzy_match_code": "161891005",
+    "fuzzy_score": 47,
+    "embedding_match_text": "Backache",
+    "embedding_match_code": "161891005",
+    "embedding_score": 0.7416288256645203
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "neck ache",
+    "fuzzy_match_text": "Neck pain",
+    "fuzzy_match_code": "81680005",
+    "fuzzy_score": 67,
+    "embedding_match_text": "Neck pain",
+    "embedding_match_code": "81680005",
+    "embedding_score": 0.9289658665657043
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "lack of appetite",
+    "fuzzy_match_text": "Loss of appetite",
+    "fuzzy_match_code": "79890006",
+    "fuzzy_score": 81,
+    "embedding_match_text": "Loss of appetite",
+    "embedding_match_code": "79890006",
+    "embedding_score": 0.8550267219543457
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "nausea",
+    "fuzzy_match_text": "Nausea",
+    "fuzzy_match_code": "422587007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Nausea",
+    "embedding_match_code": "422587007",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.711",
+    "original_text": "veneer of sadness",
+    "fuzzy_match_text": "Loss of appetite",
+    "fuzzy_match_code": "79890006",
+    "fuzzy_score": 42,
+    "embedding_match_text": "Feeling unhappy",
+    "embedding_match_code": "420038007",
+    "embedding_score": 0.49989038705825806
+  },
+  {
+    "file": "LIPITOR.177",
+    "original_text": "paralysis",
+    "fuzzy_match_text": "Paralysis",
+    "fuzzy_match_code": "44695005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Paralysis",
+    "embedding_match_code": "44695005",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.177",
+    "original_text": "paralysis",
+    "fuzzy_match_text": "Paralysis",
+    "fuzzy_match_code": "44695005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Paralysis",
+    "embedding_match_code": "44695005",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.177",
+    "original_text": "peripheral neuropathy",
+    "fuzzy_match_text": "Peripheral neuropathy",
+    "fuzzy_match_code": "302226006",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Peripheral neuropathy",
+    "embedding_match_code": "302226006",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.177",
+    "original_text": "paralysis",
+    "fuzzy_match_text": "Paralysis",
+    "fuzzy_match_code": "44695005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Paralysis",
+    "embedding_match_code": "44695005",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "Sudden knee pain",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 59,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.5917379260063171
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "horriable crippeling pain hit both knees at same moment",
+    "fuzzy_match_text": "Acute pain",
+    "fuzzy_match_code": "274663001",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.534715473651886
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "lumpy swelling on both feet in same place on each",
+    "fuzzy_match_text": "Foot swelling",
+    "fuzzy_match_code": "297142003",
+    "fuzzy_score": 76,
+    "embedding_match_text": "Foot swelling",
+    "embedding_match_code": "297142003",
+    "embedding_score": 0.7814192175865173
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "sudden horriable grabbing pain in one ankle",
+    "fuzzy_match_text": "Acute pain",
+    "fuzzy_match_code": "274663001",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.5109473466873169
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.45498552918434143
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "indigestion",
+    "fuzzy_match_text": "Indigestion",
+    "fuzzy_match_code": "162031009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Indigestion",
+    "embedding_match_code": "162031009",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "acid reflux",
+    "fuzzy_match_text": "Acid reflux",
+    "fuzzy_match_code": "698065002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Acid reflux",
+    "embedding_match_code": "698065002",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "no energy",
+    "fuzzy_match_text": "Lack of energy",
+    "fuzzy_match_code": "248274002",
+    "fuzzy_score": 80,
+    "embedding_match_text": "Lack of energy",
+    "embedding_match_code": "248274002",
+    "embedding_score": 0.8015125393867493
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "confusion",
+    "fuzzy_match_text": "Confusion",
+    "fuzzy_match_code": "40917007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Confusion",
+    "embedding_match_code": "40917007",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "stumbeling",
+    "fuzzy_match_text": "Stumbling gait",
+    "fuzzy_match_code": "250991000119100",
+    "fuzzy_score": 75,
+    "embedding_match_text": "Confusion",
+    "embedding_match_code": "40917007",
+    "embedding_score": 0.2729676067829132
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "vertigo",
+    "fuzzy_match_text": "Vertigo",
+    "fuzzy_match_code": "399153001",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Vertigo",
+    "embedding_match_code": "399153001",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "memory loss",
+    "fuzzy_match_text": "Lipitor",
+    "fuzzy_match_code": "3877011000036101",
+    "fuzzy_score": 33,
+    "embedding_match_text": "Amnesia",
+    "embedding_match_code": "48167000",
+    "embedding_score": 0.5504356026649475
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "frequent sudden urges to go pee that came out with a force that sprayed everywhere",
+    "fuzzy_match_text": "Urinary frequency",
+    "fuzzy_match_code": "162116003",
+    "fuzzy_score": 26,
+    "embedding_match_text": "Urinary frequency",
+    "embedding_match_code": "162116003",
+    "embedding_score": 0.2933088541030884
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "Sudden grabbing pain in ankle",
+    "fuzzy_match_text": "Acute pain",
+    "fuzzy_match_code": "274663001",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Foot swelling",
+    "embedding_match_code": "297142003",
+    "embedding_score": 0.5352739691734314
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "HORRIABLE pain that almost throws me down",
+    "fuzzy_match_text": "Acute pain",
+    "fuzzy_match_code": "274663001",
+    "fuzzy_score": 57,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.6611082553863525
+  },
+  {
+    "file": "LIPITOR.887",
+    "original_text": "confusion",
+    "fuzzy_match_text": "Confusion",
+    "fuzzy_match_code": "40917007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Confusion",
+    "embedding_match_code": "40917007",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.604",
+    "original_text": "depression",
+    "fuzzy_match_text": "Depression",
+    "fuzzy_match_code": "35489007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Depression",
+    "embedding_match_code": "35489007",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.604",
+    "original_text": "Depression",
+    "fuzzy_match_text": "Depression",
+    "fuzzy_match_code": "35489007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Depression",
+    "embedding_match_code": "35489007",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.604",
+    "original_text": "severe depression",
+    "fuzzy_match_text": "Depression",
+    "fuzzy_match_code": "35489007",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Severe depression",
+    "embedding_match_code": "310497006",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.733",
+    "original_text": "muscle pain",
+    "fuzzy_match_text": "Pins and needles",
+    "fuzzy_match_code": "62507009",
+    "fuzzy_score": 44,
+    "embedding_match_text": "Myalgia",
+    "embedding_match_code": "68962001",
+    "embedding_score": 0.5838261842727661
+  },
+  {
+    "file": "LIPITOR.733",
+    "original_text": "headache",
+    "fuzzy_match_text": "Headache",
+    "fuzzy_match_code": "25064002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Headache",
+    "embedding_match_code": "25064002",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.733",
+    "original_text": "tingling and sunny sensation on my face",
+    "fuzzy_match_text": "Pins and needles",
+    "fuzzy_match_code": "62507009",
+    "fuzzy_score": 32,
+    "embedding_match_text": "Headache",
+    "embedding_match_code": "25064002",
+    "embedding_score": 0.42810773849487305
+  },
+  {
+    "file": "LIPITOR.733",
+    "original_text": "gas",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Excessive upper gastrointestinal gas",
+    "embedding_match_code": "162076009",
+    "embedding_score": 0.45498552918434143
+  },
+  {
+    "file": "ARTHROTEC.27",
+    "original_text": "severe mentrual cramps",
+    "fuzzy_match_text": "Menstrual cramp",
+    "fuzzy_match_code": "431416001",
+    "fuzzy_score": 76,
+    "embedding_match_text": "Menstrual cramp",
+    "embedding_match_code": "431416001",
+    "embedding_score": 0.7693432569503784
+  },
+  {
+    "file": "ARTHROTEC.27",
+    "original_text": "so much pain",
+    "fuzzy_match_text": "Pain in pelvis",
+    "fuzzy_match_code": "30473006",
+    "fuzzy_score": 54,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.6440721154212952
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "diarrhea",
+    "fuzzy_match_text": "Diarrhoea",
+    "fuzzy_match_code": "62315008",
+    "fuzzy_score": 94,
+    "embedding_match_text": "Diarrhoea",
+    "embedding_match_code": "62315008",
+    "embedding_score": 0.8394460678100586
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "vomiting",
+    "fuzzy_match_text": "Vomiting",
+    "fuzzy_match_code": "422400008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Vomiting",
+    "embedding_match_code": "422400008",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "extreme sweating",
+    "fuzzy_match_text": "Excessive sweating",
+    "fuzzy_match_code": "52613005",
+    "fuzzy_score": 76,
+    "embedding_match_text": "Excessive sweating",
+    "embedding_match_code": "52613005",
+    "embedding_score": 0.9093250036239624
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "dizzyness",
+    "fuzzy_match_text": "Dizziness",
+    "fuzzy_match_code": "404640003",
+    "fuzzy_score": 89,
+    "embedding_match_text": "Dizziness",
+    "embedding_match_code": "404640003",
+    "embedding_score": 0.8444830179214478
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "very weak",
+    "fuzzy_match_text": "Excessive sweating",
+    "fuzzy_match_code": "52613005",
+    "fuzzy_score": 44,
+    "embedding_match_text": "Vomiting",
+    "embedding_match_code": "422400008",
+    "embedding_score": 0.24079068005084991
+  },
+  {
+    "file": "VOLTAREN.45",
+    "original_text": "chills",
+    "fuzzy_match_text": "Chill",
+    "fuzzy_match_code": "43724002",
+    "fuzzy_score": 91,
+    "embedding_match_text": "Chill",
+    "embedding_match_code": "43724002",
+    "embedding_score": 0.8281769156455994
+  },
+  {
+    "file": "LIPITOR.517",
+    "original_text": "heavy aching legs",
+    "fuzzy_match_text": "Heavy legs",
+    "fuzzy_match_code": "161873000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Heavy legs",
+    "embedding_match_code": "161873000",
+    "embedding_score": 0.7768145799636841
+  },
+  {
+    "file": "LIPITOR.290",
+    "original_text": "pain in arm",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain in upper limb",
+    "embedding_match_code": "102556003",
+    "embedding_score": 0.7591633200645447
+  },
+  {
+    "file": "LIPITOR.290",
+    "original_text": "pain in shoulder",
+    "fuzzy_match_text": "Shoulder pain",
+    "fuzzy_match_code": "45326000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Shoulder pain",
+    "embedding_match_code": "45326000",
+    "embedding_score": 0.9827621579170227
+  },
+  {
+    "file": "LIPITOR.290",
+    "original_text": "could not lift arm",
+    "fuzzy_match_text": "Difficulty moving arm",
+    "fuzzy_match_code": "284143002",
+    "fuzzy_score": 51,
+    "embedding_match_text": "Difficulty moving arm",
+    "embedding_match_code": "284143002",
+    "embedding_score": 0.6759948134422302
+  },
+  {
+    "file": "LIPITOR.290",
+    "original_text": "pain",
+    "fuzzy_match_text": "Pain in upper limb",
+    "fuzzy_match_code": "102556003",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.290",
+    "original_text": "pain",
+    "fuzzy_match_text": "Pain in upper limb",
+    "fuzzy_match_code": "102556003",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "Stomach cramps",
+    "fuzzy_match_text": "Stomach cramps",
+    "fuzzy_match_code": "51197009",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Stomach cramps",
+    "embedding_match_code": "51197009",
+    "embedding_score": 1.0000001192092896
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "muscle pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 58,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.5917345285415649
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "lower back pain",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 93,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.9274995923042297
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "irritability",
+    "fuzzy_match_text": "Feeling irritable",
+    "fuzzy_match_code": "55929007",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Feeling irritable",
+    "embedding_match_code": "55929007",
+    "embedding_score": 0.8749236464500427
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "flu-symptoms",
+    "fuzzy_match_text": "Lipitor",
+    "fuzzy_match_code": "3877011000036101",
+    "fuzzy_score": 42,
+    "embedding_match_text": "Influenza-like illness",
+    "embedding_match_code": "95891005",
+    "embedding_score": 0.6732220649719238
+  },
+  {
+    "file": "LIPITOR.666",
+    "original_text": "malaise",
+    "fuzzy_match_text": "Malaise",
+    "fuzzy_match_code": "367391008",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Malaise",
+    "embedding_match_code": "367391008",
+    "embedding_score": 0.9999999403953552
+  },
+  {
+    "file": "LIPITOR.639",
+    "original_text": "Rash with blisters",
+    "fuzzy_match_text": "Blistering rash",
+    "fuzzy_match_code": "247464001",
+    "fuzzy_score": 79,
+    "embedding_match_text": "Blistering rash",
+    "embedding_match_code": "247464001",
+    "embedding_score": 0.9404476284980774
+  },
+  {
+    "file": "LIPITOR.639",
+    "original_text": "severe muscle aches",
+    "fuzzy_match_text": "Feeling tired",
+    "fuzzy_match_code": "314109004",
+    "fuzzy_score": 25,
+    "embedding_match_text": "Myalgia",
+    "embedding_match_code": "68962001",
+    "embedding_score": 0.4849160313606262
+  },
+  {
+    "file": "LIPITOR.639",
+    "original_text": "joint pain",
+    "fuzzy_match_text": "Feeling tired",
+    "fuzzy_match_code": "314109004",
+    "fuzzy_score": 35,
+    "embedding_match_text": "Myalgia",
+    "embedding_match_code": "68962001",
+    "embedding_score": 0.44879454374313354
+  },
+  {
+    "file": "LIPITOR.639",
+    "original_text": "extremely tired feeling",
+    "fuzzy_match_text": "Feeling tired",
+    "fuzzy_match_code": "314109004",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Feeling tired",
+    "embedding_match_code": "314109004",
+    "embedding_score": 0.8407527804374695
+  },
+  {
+    "file": "LIPITOR.639",
+    "original_text": "no energy",
+    "fuzzy_match_text": "Lack of energy",
+    "fuzzy_match_code": "248274002",
+    "fuzzy_score": 80,
+    "embedding_match_text": "Lack of energy",
+    "embedding_match_code": "248274002",
+    "embedding_score": 0.8015126585960388
+  },
+  {
+    "file": "LIPITOR.883",
+    "original_text": "heart attack symptoms",
+    "fuzzy_match_text": "N/A",
+    "fuzzy_match_code": "N/A",
+    "fuzzy_score": -1,
+    "embedding_match_text": "N/A",
+    "embedding_match_code": "N/A",
+    "embedding_score": 0
+  },
+  {
+    "file": "ARTHROTEC.34",
+    "original_text": "Bleeding mini periods",
+    "fuzzy_match_text": "Lightheadedness",
+    "fuzzy_match_code": "386705008",
+    "fuzzy_score": 39,
+    "embedding_match_text": "Hypomenorrhoea",
+    "embedding_match_code": "64206003",
+    "embedding_score": 0.2522295117378235
+  },
+  {
+    "file": "ARTHROTEC.34",
+    "original_text": "lightheaded",
+    "fuzzy_match_text": "Lightheadedness",
+    "fuzzy_match_code": "386705008",
+    "fuzzy_score": 85,
+    "embedding_match_text": "Lightheadedness",
+    "embedding_match_code": "386705008",
+    "embedding_score": 0.8853779435157776
+  },
+  {
+    "file": "ARTHROTEC.34",
+    "original_text": "finger tingling",
+    "fuzzy_match_text": "Lightheadedness",
+    "fuzzy_match_code": "386705008",
+    "fuzzy_score": 20,
+    "embedding_match_text": "Pins and needles",
+    "embedding_match_code": "62507009",
+    "embedding_score": 0.4639955163002014
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Pain in lower back",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.9036880731582642
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Pain in knees",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Knee pain",
+    "embedding_match_code": "30989003",
+    "embedding_score": 0.9027915000915527
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Pain in elbow",
+    "fuzzy_match_text": "Pain in elbow",
+    "fuzzy_match_code": "74323005",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain in elbow",
+    "embedding_match_code": "74323005",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Stiffness in lower back",
+    "fuzzy_match_text": "Low back pain",
+    "fuzzy_match_code": "279039007",
+    "fuzzy_score": 61,
+    "embedding_match_text": "Low back pain",
+    "embedding_match_code": "279039007",
+    "embedding_score": 0.7086597681045532
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Stiffness in legs",
+    "fuzzy_match_text": "Stiff legs",
+    "fuzzy_match_code": "225609009",
+    "fuzzy_score": 74,
+    "embedding_match_text": "Stiff legs",
+    "embedding_match_code": "225609009",
+    "embedding_score": 0.9014396071434021
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Excercise intolerance",
+    "fuzzy_match_text": "Impaired exercise tolerance",
+    "fuzzy_match_code": "267044007",
+    "fuzzy_score": 79,
+    "embedding_match_text": "Impaired exercise tolerance",
+    "embedding_match_code": "267044007",
+    "embedding_score": 0.6369469165802002
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "general muscle weakness",
+    "fuzzy_match_text": "Excessive upper gastrointestinal gas",
+    "fuzzy_match_code": "162076009",
+    "fuzzy_score": 27,
+    "embedding_match_text": "Impaired exercise tolerance",
+    "embedding_match_code": "267044007",
+    "embedding_score": 0.4285784065723419
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "pains",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 89,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.8000088930130005
+  },
+  {
+    "file": "LIPITOR.588",
+    "original_text": "Pain in hip",
+    "fuzzy_match_text": "Hip pain",
+    "fuzzy_match_code": "49218002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Hip pain",
+    "embedding_match_code": "49218002",
+    "embedding_score": 0.9606032371520996
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "Severe back pain",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.6908774375915527
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "feet joint pain similar to arthritis",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Arthralgia of the lower leg",
+    "embedding_match_code": "267953003",
+    "embedding_score": 0.5061266422271729
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "finger joint pain similar to arthritis",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Severe pain",
+    "embedding_match_code": "76948002",
+    "embedding_score": 0.4656298756599426
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "Leg joint pain similar to arthritis",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Arthralgia of the lower leg",
+    "embedding_match_code": "267953003",
+    "embedding_score": 0.6128576993942261
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "Planta fasciitis similarities",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 35,
+    "embedding_match_text": "Arthralgia of the lower leg",
+    "embedding_match_code": "267953003",
+    "embedding_score": 0.3011336624622345
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "Big weight gain in stomach area",
+    "fuzzy_match_text": "Weight increased",
+    "fuzzy_match_code": "262286000",
+    "fuzzy_score": 55,
+    "embedding_match_text": "Weight increased",
+    "embedding_match_code": "262286000",
+    "embedding_score": 0.5274723768234253
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "never felt so old in my life",
+    "fuzzy_match_text": "Arthralgia of the lower leg",
+    "fuzzy_match_code": "267953003",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 0.23918917775154114
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "back pain",
+    "fuzzy_match_text": "Pain",
+    "fuzzy_match_code": "22253000",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Backache",
+    "embedding_match_code": "161891005",
+    "embedding_score": 0.69291090965271
+  },
+  {
+    "file": "LIPITOR.801",
+    "original_text": "pain",
+    "fuzzy_match_text": "Severe pain",
+    "fuzzy_match_code": "76948002",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Pain",
+    "embedding_match_code": "22253000",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.751",
+    "original_text": "weakness",
+    "fuzzy_match_text": "Amnesia",
+    "fuzzy_match_code": "48167000",
+    "fuzzy_score": 53,
+    "embedding_match_text": "Amnesia",
+    "embedding_match_code": "48167000",
+    "embedding_score": 0.2960732877254486
+  },
+  {
+    "file": "LIPITOR.751",
+    "original_text": "muscle pain",
+    "fuzzy_match_text": "Knee pain",
+    "fuzzy_match_code": "30989003",
+    "fuzzy_score": 62,
+    "embedding_match_text": "Myalgia",
+    "embedding_match_code": "68962001",
+    "embedding_score": 0.5838261842727661
+  },
+  {
+    "file": "LIPITOR.751",
+    "original_text": "knee pain",
+    "fuzzy_match_text": "Knee pain",
+    "fuzzy_match_code": "30989003",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Knee pain",
+    "embedding_match_code": "30989003",
+    "embedding_score": 1.0
+  },
+  {
+    "file": "LIPITOR.751",
+    "original_text": "memory loss",
+    "fuzzy_match_text": "Asthenia",
+    "fuzzy_match_code": "13791008",
+    "fuzzy_score": 21,
+    "embedding_match_text": "Amnesia",
+    "embedding_match_code": "48167000",
+    "embedding_score": 0.550435483455658
+  },
+  {
+    "file": "LIPITOR.367",
+    "original_text": "intense dizziness",
+    "fuzzy_match_text": "Dizziness",
+    "fuzzy_match_code": "404640003",
+    "fuzzy_score": 100,
+    "embedding_match_text": "Dizziness",
+    "embedding_match_code": "404640003",
+    "embedding_score": 0.8997771739959717
+  },
+  {
+    "file": "LIPITOR.367",
+    "original_text": "intense chills and shivers",
+    "fuzzy_match_text": "Dizziness",
+    "fuzzy_match_code": "404640003",
+    "fuzzy_score": 40,
+    "embedding_match_text": "Chill",
+    "embedding_match_code": "43724002",
+    "embedding_score": 0.48908257484436035
+  },
+  {
+    "file": "LIPITOR.367",
+    "original_text": "lassitude",
+    "fuzzy_match_text": "Asthenia",
+    "fuzzy_match_code": "13791008",
+    "fuzzy_score": 35,
+    "embedding_match_text": "Asthenia",
+    "embedding_match_code": "13791008",
+    "embedding_score": 0.23014329373836517
+  },
+  {
+    "file": "LIPITOR.374",
+    "original_text": "night muscle cramps",
+    "fuzzy_match_text": "Muscle cramp",
+    "fuzzy_match_code": "55300003",
+    "fuzzy_score": 77,
+    "embedding_match_text": "Muscle cramp",
+    "embedding_match_code": "55300003",
+    "embedding_score": 0.7551427483558655
+  },
+  {
+    "file": "LIPITOR.781",
+    "original_text": "muscle aches in arms",
+    "fuzzy_match_text": "Myalgia",
+    "fuzzy_match_code": "68962001",
+    "fuzzy_score": 15,
+    "embedding_match_text": "Myalgia",
+    "embedding_match_code": "68962001",
+    "embedding_score": 0.4028284251689911
+  }
+]

@@ -1,0 +1,20 @@
+T1	ADR 15 17	or
+T2	Symptom 18 19	4
+T3	ADR 43 55	very intense
+T4	ADR 63 67	pain
+T5	ADR 73 80	burning
+T6	Symptom 168 186	from a few minutes
+T7	Symptom 190 191	a
+T8	ADR 192 198	couple
+T9	Symptom 199 207	of hours
+T10	ADR 217 226	fade away
+T11	ADR 254 261	intense
+T12	ADR 269 273	pain
+T13	ADR 279 294	intense burning
+T14	Symptom 359 369	a few days
+T15	Symptom 444 460	at least a month
+T16	ADR 476 481	pains
+T17	ADR 523 524	2
+T18	ADR 647 652	pains
+T19	Symptom 653 665	occasionally
+T20	Symptom 675 680	weeks

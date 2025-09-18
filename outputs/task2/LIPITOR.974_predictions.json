@@ -1,0 +1,14 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "10 24",
+    "text": "loss of memory"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "26 40",
+    "text": "loss of libido"
+  }
+]

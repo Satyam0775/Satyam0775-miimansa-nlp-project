@@ -1,0 +1,11 @@
+T1	ADR 60 61	b
+T2	Symptom 86 94	increase
+T3	Drug 164 168	itor
+T4	Symptom 209 221	three months
+T5	ADR 380 381	b
+T6	ADR 383 388	ating
+T7	ADR 409 418	gas build
+T8	ADR 575 581	drowsy
+T9	ADR 718 722	pain
+T10	Disease 972 979	tendoni
+T11	ADR 1436 1441	upset

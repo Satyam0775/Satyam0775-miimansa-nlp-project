@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "ADR",
+    "span": "16 21",
+    "text": "gassy"
+  },
+  {
+    "id": "T2",
+    "label": "Drug",
+    "span": "90 95",
+    "text": "clean"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "160 163",
+    "text": "all"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "164 169",
+    "text": "night"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "174 193",
+    "text": "rise in the morning"
+  }
+]

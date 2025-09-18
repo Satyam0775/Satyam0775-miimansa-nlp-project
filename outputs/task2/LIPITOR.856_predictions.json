@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "157 164",
+    "text": "reduced"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "257 261",
+    "text": "pain"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "277 281",
+    "text": "walk"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "289 303",
+    "text": "short distance"
+  },
+  {
+    "id": "T5",
+    "label": "ADR",
+    "span": "347 355",
+    "text": "marathon"
+  },
+  {
+    "id": "T6",
+    "label": "ADR",
+    "span": "414 418",
+    "text": "pain"
+  },
+  {
+    "id": "T7",
+    "label": "ADR",
+    "span": "641 644",
+    "text": "mad"
+  },
+  {
+    "id": "T8",
+    "label": "Symptom",
+    "span": "666 671",
+    "text": "weeks"
+  },
+  {
+    "id": "T9",
+    "label": "ADR",
+    "span": "732 736",
+    "text": "pain"
+  },
+  {
+    "id": "T10",
+    "label": "Symptom",
+    "span": "792 806",
+    "text": "over the years"
+  },
+  {
+    "id": "T11",
+    "label": "Disease",
+    "span": "904 912",
+    "text": "bursitis"
+  },
+  {
+    "id": "T12",
+    "label": "Symptom",
+    "span": "929 930",
+    "text": "2"
+  },
+  {
+    "id": "T13",
+    "label": "ADR",
+    "span": "981 985",
+    "text": "pain"
+  },
+  {
+    "id": "T14",
+    "label": "ADR",
+    "span": "997 1001",
+    "text": "walk"
+  },
+  {
+    "id": "T15",
+    "label": "ADR",
+    "span": "1007 1013",
+    "text": "than 5"
+  }
+]

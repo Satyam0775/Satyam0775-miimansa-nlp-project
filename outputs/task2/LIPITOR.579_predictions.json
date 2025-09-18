@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "label": "Symptom",
+    "span": "104 111",
+    "text": "lowered"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "182 191",
+    "text": "indigesti"
+  },
+  {
+    "id": "T3",
+    "label": "ADR",
+    "span": "229 233",
+    "text": "ache"
+  },
+  {
+    "id": "T4",
+    "label": "ADR",
+    "span": "282 290",
+    "text": "suddenly"
+  },
+  {
+    "id": "T5",
+    "label": "Symptom",
+    "span": "304 308",
+    "text": "high"
+  }
+]

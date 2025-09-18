@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T1",
+    "label": "Disease",
+    "span": "7 26",
+    "text": "achilles tendonitis"
+  },
+  {
+    "id": "T2",
+    "label": "ADR",
+    "span": "52 70",
+    "text": "burning sensations"
+  },
+  {
+    "id": "T3",
+    "label": "Symptom",
+    "span": "116 129",
+    "text": "almost a year"
+  },
+  {
+    "id": "T4",
+    "label": "Symptom",
+    "span": "158 166",
+    "text": "4 months"
+  }
+]
