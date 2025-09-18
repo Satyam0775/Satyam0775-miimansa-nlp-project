@@ -1,1 +1,1 @@
-# Satyam0775-miimansa-nlp-project
+# miimansa-nlp-project
