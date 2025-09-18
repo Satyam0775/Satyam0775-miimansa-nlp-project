@@ -59,7 +59,7 @@ The project is divided into **six tasks**, each implemented as a Python script a
 ---
 
 ### **Task 4 – ADR-focused Evaluation with MedDRA**  
-**File:** `Task4.ipynb` / `step4.py`  
+**File:** `Task4.ipynb`   
 - Focus only on **ADR entities**.  
 - Ground truth: `cadec/meddra/`.  
 - Metrics: Precision, Recall, F1-score.  
@@ -79,7 +79,7 @@ The project is divided into **six tasks**, each implemented as a Python script a
 ---
 
 ### **Task 6 – Linking ADRs to SNOMED-CT**  
-**File:** `Task6_Merge_SCT.ipynb` / `step6.py`  
+**File:** `Task6_Merge_SCT.ipynb`  
 - Combines data from `cadec/original/` and `cadec/sct/`.  
 - For each ADR entity: retrieves SNOMED-CT **code + description**.  
 - Matching methods:  
